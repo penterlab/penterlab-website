@@ -1,60 +1,970 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1182/blood.2022017686
+  title: "Ipilimumab plus decitabine for patients with MDS or AML in posttransplant\
+    \ or transplant-na\xEFve settings"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Jacqueline S. Garcia
+  - Yael Flamand
+  - Livius Penter
+  - Michael Keng
+  - Benjamin K. Tomlinson
+  - Lourdes M. Mendez
+  - Paul Koller
+  - Nicole Cullen
+  - Yohei Arihara
+  - Kathleen Pfaff
+  - Jacquelyn O. Wolff
+  - Andrew M. Brunner
+  - Ilene Galinsky
+  - Asad Bashey
+  - Joseph H. Antin
+  - Corey Cutler
+  - Vincent Ho
+  - Brian A. Jonas
+  - Marlise R. Luskin
+  - Martha Wadleigh
+  - Eric S. Winer
+  - Alexandra Savell
+  - Rebecca Leonard
+  - Taylor Robertson
+  - Matthew S. Davids
+  - Howard Streicher
+  - Scott J. Rodig
+  - Jerome Ritz
+  - Catherine J. Wu
+  - Daniel J. DeAngelo
+  - Donna Neuberg
+  - Richard M. Stone
+  - Robert J. Soiffer
+  publisher: Blood
+  date: '2023-04-13'
+  link: https://doi.org/gr9qwz
+  orcid: 0000-0002-9060-0207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1182/blood.2022018246
+  title: Mechanisms of response and resistance to combined decitabine and ipilimumab
+    for advanced myeloid disease
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Livius Penter
+  - Yang Liu
+  - Jacquelyn O. Wolff
+  - Lin Yang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jackson Southard
+  - Manishkumar Patel
+  - Nicole M. Cullen
+  - Kathleen L. Pfaff
+  - Nicoletta Cieri
+  - Giacomo Oliveira
+  - Seunghee Kim-Schulze
+  - Srinika Ranasinghe
+  - Rebecca Leonard
+  - Taylor Robertson
+  - Elizabeth A. Morgan
+  - Helen X. Chen
+  - Minkyung H. Song
+  - Magdalena Thurin
+  - Shuqiang Li
+  - Scott J. Rodig
+  - Carrie Cibulskis
+  - Stacey Gabriel
+  - Pavan Bachireddy
+  - Jerome Ritz
+  - Howard Streicher
+  - Donna S. Neuberg
+  - F. Stephen Hodi
+  - Matthew S. Davids
+  - Sacha Gnjatic
+  - Kenneth J. Livak
+  - Jennifer Altreuter
+  - Franziska Michor
+  - Robert J. Soiffer
+  - Jacqueline S. Garcia
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2023-04-13'
+  link: https://doi.org/gr9qw2
+  orcid: 0000-0002-9060-0207
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1158/0008-5472.CAN-22-0275
+  title: Mitochondrial DNA Mutations as Natural Barcodes for Lineage Tracing of Murine
+    Tumor Models
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Livius Penter
+  - Elisa ten Hacken
+  - Jackson Southard
+  - Caleb A. Lareau
+  - Leif S. Ludwig
+  - Shuqiang Li
+  - Donna S. Neuberg
+  - Kenneth J. Livak
+  - Catherine J. Wu
+  publisher: Cancer Research
+  date: '2022-12-05'
+  link: https://doi.org/gr7bsk
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2643-3230.BCD-22-0082
+  title: <i>In Vivo</i>Modeling of CLL Transformation to Richter Syndrome Reveals
+    Convergent Evolutionary Paths and Therapeutic Vulnerabilities
+  authors:
+  - Elisa ten Hacken
+  - Tomasz Sewastianik
+  - Shanye Yin
+  - Gabriela Brunsting Hoffmann
+  - Michaela Gruber
+  - Kendell Clement
+  - Livius Penter
+  - Robert A. Redd
+  - Neil Ruthen
+  - "S\xE9bastien Hergalant"
+  - Alanna Sholokhova
+  - Geoffrey Fell
+  - Erin M. Parry
+  - "Julien Bros\xE9us"
+  - Romain Guieze
+  - Fabienne Lucas
+  - "Mar\xEDa Hern\xE1ndez-S\xE1nchez"
+  - Kaitlyn Baranowski
+  - Jackson Southard
+  - Heather Joyal
+  - Leah Billington
+  - Fara Faye D. Regis
+  - Elizabeth Witten
+  - Mohamed Uduman
+  - Binyamin A. Knisbacher
+  - Shuqiang Li
+  - Haoxiang Lyu
+  - Tiziana Vaisitti
+  - Silvia Deaglio
+  - Giorgio Inghirami
+  - Pierre Feugier
+  - Stephan Stilgenbauer
+  - Eugen Tausch
+  - Matthew S. Davids
+  - Gad Getz
+  - Kenneth J. Livak
+  - Ivana Bozic
+  - Donna S. Neuberg
+  - Ruben D. Carrasco
+  - Catherine J. Wu
+  publisher: Blood Cancer Discovery
+  date: '2022-12-06'
+  link: https://doi.org/gr9qw3
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2326-6066.CIR-22-0434
+  title: "Immune Phenotypes and Target Antigens of Clonally Expanded Bone Marrow T\
+    \ Cells in Treatment-Na\xEFve Multiple Myeloma"
+  authors:
+  - Carlotta Welters
+  - "Mar\xEDa Fernanda Lammoglia Cobo"
+  - Christian Alexander Stein
+  - Meng-Tung Hsu
+  - Amin Ben Hamza
+  - Livius Penter
+  - Xiaojing Chen
+  - Christopher Buccitelli
+  - Oliver Popp
+  - Philipp Mertins
+  - Kerstin Dietze
+  - Lars Bullinger
+  - Andreas Moosmann
+  - Eric Blanc
+  - Dieter Beule
+  - Armin Gerbitz
+  - Julian Strobel
+  - Holger Hackstein
+  - Hans-Peter Rahn
+  - Klaus Dornmair
+  - Thomas Blankenstein
+  - Leo Hansmann
+  publisher: Cancer Immunology Research
+  date: '2022-09-19'
+  link: https://doi.org/gr9qw4
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood.2022017614
+  title: AML relapse after a TIGIT race
+  authors:
+  - Livius Penter
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2022-09-15'
+  link: https://doi.org/gr9qw5
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-21-2834
+  title: Improved T-cell Immunity Following Neoadjuvant Chemotherapy in Ovarian Cancer
+  authors:
+  - Min Liu
+  - Nabihah Tayob
+  - Livius Penter
+  - MacLean Sellars
+  - Anna Tarren
+  - Vipheaviny Chea
+  - Isabel Carulli
+  - Teddy Huang
+  - Shuqiang Li
+  - Su-Chun Cheng
+  - Phuong Le
+  - Laura Frackiewicz
+  - Julia Fasse
+  - Courtney Qi
+  - Joyce F. Liu
+  - Elizabeth H. Stover
+  - Jennifer Curtis
+  - Kenneth J. Livak
+  - Donna Neuberg
+  - Guanglan Zhang
+  - Ursula A. Matulonis
+  - Catherine J. Wu
+  - Derin B. Keskin
+  - Panagiotis A. Konstantinopoulos
+  publisher: Clinical Cancer Research
+  date: '2022-04-20'
+  link: https://doi.org/gr9qw6
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jcyt.2022.03.005
+  title: "Rapid single-cell identification of Epstein\u2013Barr virus-specific T-cell\
+    \ receptors for cellular therapy"
+  authors:
+  - "Mar\xEDa Fernanda Lammoglia Cobo"
+  - Carlotta Welters
+  - Leonie Rosenberger
+  - Matthias Leisegang
+  - Kerstin Dietze
+  - Christian Pircher
+  - Livius Penter
+  - Regina Gary
+  - Lars Bullinger
+  - Anna Takvorian
+  - Andreas Moosmann
+  - Klaus Dornmair
+  - Thomas Blankenstein
+  - "Thomas Kammert\xF6ns"
+  - Armin Gerbitz
+  - Leo Hansmann
+  publisher: Cytotherapy
+  date: '2022-08-01'
+  link: https://doi.org/gr9qw7
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2021.788891
+  title: Natural Barcodes for Longitudinal Single Cell Tracking of Leukemic and Immune
+    Cell Dynamics
+  authors:
+  - Livius Penter
+  - Satyen H. Gohil
+  - Catherine J. Wu
+  publisher: Frontiers in Immunology
+  date: '2022-01-03'
+  link: https://doi.org/gptgxq
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-21-0276
+  title: Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial
+    Mutations in Chronic Lymphocytic Leukemia Mirror Disease History
+  authors:
+  - Livius Penter
+  - Satyen H. Gohil
+  - Caleb Lareau
+  - Leif S. Ludwig
+  - Erin M. Parry
+  - Teddy Huang
+  - Shuqiang Li
+  - Wandi Zhang
+  - Dimitri Livitz
+  - Ignaty Leshchiner
+  - Laxmi Parida
+  - Gad Getz
+  - Laura Z. Rassenti
+  - Thomas J. Kipps
+  - Jennifer R. Brown
+  - Matthew S. Davids
+  - Donna S. Neuberg
+  - Kenneth J. Livak
+  - Vijay G. Sankaran
+  - Catherine J. Wu
+  publisher: Cancer Discovery
+  date: '2021-12-01'
+  link: https://doi.org/gkjb9d
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2021004335
+  title: 'Coevolving JAK2V617F+relapsed AML and donor T cells with PD-1 blockade after
+    stem cell transplantation: an index case'
+  authors:
+  - Livius Penter
+  - Satyen H. Gohil
+  - Teddy Huang
+  - Emily M. Thrash
+  - Dominik Schmidt
+  - Shuqiang Li
+  - Mariano Severgnini
+  - Donna Neuberg
+  - F. Stephen Hodi
+  - Kenneth J. Livak
+  - Robert Zeiser
+  - Pavan Bachireddy
+  - Catherine J. Wu
+  publisher: Blood Advances
+  date: '2021-11-18'
+  link: https://doi.org/gqrxq9
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood.2021010867
+  title: Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies
+    after transplantation
+  authors:
+  - Livius Penter
+  - Yi Zhang
+  - Alexandra Savell
+  - Teddy Huang
+  - Nicoletta Cieri
+  - Emily M. Thrash
+  - Seunghee Kim-Schulze
+  - Aashna Jhaveri
+  - Jingxin Fu
+  - Srinika Ranasinghe
+  - Shuqiang Li
+  - Wandi Zhang
+  - Emma S. Hathaway
+  - Matthew Nazzaro
+  - Haesook T. Kim
+  - Helen Chen
+  - Magdalena Thurin
+  - Scott J. Rodig
+  - Mariano Severgnini
+  - Carrie Cibulskis
+  - Stacey Gabriel
+  - Kenneth J. Livak
+  - Corey Cutler
+  - Joseph H. Antin
+  - Sarah Nikiforow
+  - John Koreth
+  - Vincent T. Ho
+  - Philippe Armand
+  - Jerome Ritz
+  - Howard Streicher
+  - Donna Neuberg
+  - F. Stephen Hodi
+  - Sacha Gnjatic
+  - Robert J. Soiffer
+  - X. Shirley Liu
+  - Matthew S. Davids
+  - Pavan Bachireddy
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2021-03-16'
+  link: https://doi.org/gr9qw8
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI129209
+  title: 'Personal tumor antigens in blood malignancies: genomics-directed identification
+    and targeting'
+  authors:
+  - Livius Penter
+  - Catherine J. Wu
+  publisher: Journal of Clinical Investigation
+  date: '2020-01-27'
+  link: https://doi.org/ghczms
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eji.201970107
+  title: Guidelines for the use of flow cytometry and cell sorting in immunological
+    studies (second edition)
+  authors:
+  - Andrea Cossarizza
+  - "Hyun\u2010Dong Chang"
+  - Andreas Radbruch
+  - Andreas Acs
+  - Dieter Adam
+  - "Sabine Adam\u2010Klages"
+  - William W. Agace
+  - Nima Aghaeepour
+  - "M\xFCbeccel Akdis"
+  - Matthieu Allez
+  - Larissa Nogueira Almeida
+  - Giorgia Alvisi
+  - Graham Anderson
+  - "Immanuel Andr\xE4"
+  - Francesco Annunziato
+  - Achille Anselmo
+  - Petra Bacher
+  - Cosima T. Baldari
+  - Sudipto Bari
+  - Vincenzo Barnaba
+  - "Joana Barros\u2010Martins"
+  - Luca Battistini
+  - Wolfgang Bauer
+  - Sabine Baumgart
+  - Nicole Baumgarth
+  - Dirk Baumjohann
+  - Bianka Baying
+  - Mary Bebawy
+  - Burkhard Becher
+  - Wolfgang Beisker
+  - Vladimir Benes
+  - Rudi Beyaert
+  - Alfonso Blanco
+  - Dominic A. Boardman
+  - Christian Bogdan
+  - Jessica G. Borger
+  - Giovanna Borsellino
+  - Philip E. Boulais
+  - Jolene A. Bradford
+  - Dirk Brenner
+  - Ryan R. Brinkman
+  - Anna E. S. Brooks
+  - Dirk H. Busch
+  - "Martin B\xFCscher"
+  - Timothy P. Bushnell
+  - Federica Calzetti
+  - Garth Cameron
+  - Ilenia Cammarata
+  - Xuetao Cao
+  - Susanna L. Cardell
+  - Stefano Casola
+  - Marco A. Cassatella
+  - Andrea Cavani
+  - Antonio Celada
+  - Lucienne Chatenoud
+  - Pratip K. Chattopadhyay
+  - Sue Chow
+  - Eleni Christakou
+  - "Luka \u010Ci\u010Din\u2010\u0160ain"
+  - Mario Clerici
+  - Federico S. Colombo
+  - Laura Cook
+  - Anne Cooke
+  - Andrea M. Cooper
+  - Alexandra J. Corbett
+  - Antonio Cosma
+  - Lorenzo Cosmi
+  - Pierre G. Coulie
+  - Ana Cumano
+  - Ljiljana Cvetkovic
+  - Van Duc Dang
+  - "Chantip Dang\u2010Heine"
+  - Martin S. Davey
+  - Derek Davies
+  - Sara De Biasi
+  - Genny Del Zotto
+  - Gelo Victoriano Dela Cruz
+  - Michael Delacher
+  - Silvia Della Bella
+  - Paolo Dellabona
+  - "G\xFCnnur Deniz"
+  - Mark Dessing
+  - James P. Di Santo
+  - Andreas Diefenbach
+  - Francesco Dieli
+  - Andreas Dolf
+  - "Thomas D\xF6rner"
+  - Regine J. Dress
+  - Diana Dudziak
+  - Michael Dustin
+  - "Charles\u2010Antoine Dutertre"
+  - Friederike Ebner
+  - Sidonia B. G. Eckle
+  - Matthias Edinger
+  - Pascale Eede
+  - "G\xF6tz R.A. Ehrhardt"
+  - Marcus Eich
+  - Pablo Engel
+  - Britta Engelhardt
+  - Anna Erdei
+  - Charlotte Esser
+  - Bart Everts
+  - Maximilien Evrard
+  - Christine S. Falk
+  - Todd A. Fehniger
+  - "Mar Felipo\u2010Benavent"
+  - Helen Ferry
+  - Markus Feuerer
+  - Andrew Filby
+  - Kata Filkor
+  - Simon Fillatreau
+  - Marie Follo
+  - "Irmgard F\xF6rster"
+  - John Foster
+  - Gemma A. Foulds
+  - Britta Frehse
+  - Paul S. Frenette
+  - Stefan Frischbutter
+  - Wolfgang Fritzsche
+  - David W. Galbraith
+  - Anastasia Gangaev
+  - Natalio Garbi
+  - Brice Gaudilliere
+  - Ricardo T. Gazzinelli
+  - Jens Geginat
+  - Wilhelm Gerner
+  - Nicholas A. Gherardin
+  - Kamran Ghoreschi
+  - Lara Gibellini
+  - Florent Ginhoux
+  - Keisuke Goda
+  - Dale I. Godfrey
+  - Christoph Goettlinger
+  - "Jose M. Gonz\xE1lez\u2010Navajas"
+  - Carl S. Goodyear
+  - Andrea Gori
+  - Jane L. Grogan
+  - Daryl Grummitt
+  - "Andreas Gr\xFCtzkau"
+  - Claudia Haftmann
+  - Jonas Hahn
+  - Hamida Hammad
+  - "G\xFCnter H\xE4mmerling"
+  - Leo Hansmann
+  - Goran Hansson
+  - Christopher M. Harpur
+  - Susanne Hartmann
+  - Andrea Hauser
+  - Anja E. Hauser
+  - David L. Haviland
+  - David Hedley
+  - "Daniela C. Hern\xE1ndez"
+  - Guadalupe Herrera
+  - Martin Herrmann
+  - Christoph Hess
+  - "Thomas H\xF6fer"
+  - Petra Hoffmann
+  - Kristin Hogquist
+  - Tristan Holland
+  - "Thomas H\xF6llt"
+  - Rikard Holmdahl
+  - Pleun Hombrink
+  - Jessica P. Houston
+  - Bimba F. Hoyer
+  - Bo Huang
+  - "Fang\u2010Ping Huang"
+  - Johanna E. Huber
+  - Jochen Huehn
+  - Michael Hundemer
+  - Christopher A. Hunter
+  - William Y. K. Hwang
+  - Anna Iannone
+  - Florian Ingelfinger
+  - Sabine M Ivison
+  - "Hans\u2010Martin J\xE4ck"
+  - Peter K. Jani
+  - "Beatriz J\xE1vega"
+  - Stipan Jonjic
+  - Toralf Kaiser
+  - Tomas Kalina
+  - Thomas Kamradt
+  - Stefan H. E. Kaufmann
+  - Baerbel Keller
+  - Steven L. C. Ketelaars
+  - Ahad Khalilnezhad
+  - Srijit Khan
+  - Jan Kisielow
+  - Paul Klenerman
+  - Jasmin Knopf
+  - "Hui\u2010Fern Koay"
+  - Katja Kobow
+  - Jay K. Kolls
+  - Wan Ting Kong
+  - Manfred Kopf
+  - Thomas Korn
+  - Katharina Kriegsmann
+  - Hendy Kristyanto
+  - Thomas Kroneis
+  - Andreas Krueger
+  - "Jenny K\xFChne"
+  - Christian Kukat
+  - "D\xE9sir\xE9e Kunkel"
+  - "Heike Kunze\u2010Schumacher"
+  - Tomohiro Kurosaki
+  - Christian Kurts
+  - Pia Kvistborg
+  - Immanuel Kwok
+  - Jonathan Landry
+  - Olivier Lantz
+  - Paola Lanuti
+  - Francesca LaRosa
+  - "Agn\xE8s Lehuen"
+  - "Salom\xE9 LeibundGut\u2010Landmann"
+  - Michael D. Leipold
+  - Leslie Y.T. Leung
+  - Megan K. Levings
+  - Andreia C. Lino
+  - Francesco Liotta
+  - Virginia Litwin
+  - Yanling Liu
+  - "Hans\u2010Gustaf Ljunggren"
+  - Michael Lohoff
+  - Giovanna Lombardi
+  - Lilly Lopez
+  - "Miguel L\xF3pez\u2010Botet"
+  - "Amy E. Lovett\u2010Racke"
+  - Erik Lubberts
+  - Herve Luche
+  - Burkhard Ludewig
+  - Enrico Lugli
+  - Sebastian Lunemann
+  - Holden T. Maecker
+  - Laura Maggi
+  - Orla Maguire
+  - Florian Mair
+  - Kerstin H. Mair
+  - Alberto Mantovani
+  - Rudolf A. Manz
+  - Aaron J. Marshall
+  - "Alicia Mart\xEDnez\u2010Romero"
+  - "Gl\xF2ria Martrus"
+  - Ivana Marventano
+  - Wlodzimierz Maslinski
+  - Giuseppe Matarese
+  - Anna Vittoria Mattioli
+  - "Christian Mauer\xF6der"
+  - Alessio Mazzoni
+  - James McCluskey
+  - Mairi McGrath
+  - Helen M. McGuire
+  - Iain B. McInnes
+  - Henrik E. Mei
+  - Fritz Melchers
+  - Susanne Melzer
+  - Dirk Mielenz
+  - Stephen D. Miller
+  - Kingston H.G. Mills
+  - Hans Minderman
+  - "Jenny Mj\xF6sberg"
+  - Jonni Moore
+  - Barry Moran
+  - Lorenzo Moretta
+  - Tim R. Mosmann
+  - "Susann M\xFCller"
+  - Gabriele Multhoff
+  - "Luis Enrique Mu\xF1oz"
+  - "Christian M\xFCnz"
+  - Toshinori Nakayama
+  - Milena Nasi
+  - Katrin Neumann
+  - Lai Guan Ng
+  - Antonia Niedobitek
+  - Sussan Nourshargh
+  - "Gabriel N\xFA\xF1ez"
+  - "Jos\xE9\u2010Enrique O'Connor"
+  - Aaron Ochel
+  - Anna Oja
+  - Diana Ordonez
+  - Alberto Orfao
+  - "Eva Orlowski\u2010Oliver"
+  - Wenjun Ouyang
+  - Annette Oxenius
+  - Raghavendra Palankar
+  - Isabel Panse
+  - Kovit Pattanapanyasat
+  - Malte Paulsen
+  - Dinko Pavlinic
+  - Livius Penter
+  - "P\xE4rt Peterson"
+  - Christian Peth
+  - Jordi Petriz
+  - Federica Piancone
+  - Winfried F. Pickl
+  - Silvia Piconese
+  - Marcello Pinti
+  - A. Graham Pockley
+  - Malgorzata Justyna Podolska
+  - Zhiyong Poon
+  - Katharina Pracht
+  - Immo Prinz
+  - Carlo E. M. Pucillo
+  - Sally A. Quataert
+  - Linda Quatrini
+  - Kylie M. Quinn
+  - Helena Radbruch
+  - Tim R. D. J. Radstake
+  - Susann Rahmig
+  - "Hans\u2010Peter Rahn"
+  - Bartek Rajwa
+  - Gevitha Ravichandran
+  - Yotam Raz
+  - Jonathan A. Rebhahn
+  - Diether Recktenwald
+  - Dorothea Reimer
+  - Caetano Reis e Sousa
+  - Ester B.M. Remmerswaal
+  - Lisa Richter
+  - Laura G. Rico
+  - Andy Riddell
+  - Aja M. Rieger
+  - J. Paul Robinson
+  - Chiara Romagnani
+  - Anna Rubartelli
+  - "J\xFCrgen Ruland"
+  - "Armin Saalm\xFCller"
+  - Yvan Saeys
+  - Takashi Saito
+  - Shimon Sakaguchi
+  - "Francisco Sala\u2010de\u2010Oyanguren"
+  - Yvonne Samstag
+  - Sharon Sanderson
+  - Inga Sandrock
+  - Angela Santoni
+  - "Ramon Bellm\xE0s Sanz"
+  - Marina Saresella
+  - "Catherine Sautes\u2010Fridman"
+  - Birgit Sawitzki
+  - Linda Schadt
+  - Alexander Scheffold
+  - Hans U. Scherer
+  - Matthias Schiemann
+  - Frank A. Schildberg
+  - Esther Schimisky
+  - Andreas Schlitzer
+  - Josephine Schlosser
+  - Stephan Schmid
+  - Steffen Schmitt
+  - Kilian Schober
+  - Daniel Schraivogel
+  - Wolfgang Schuh
+  - "Thomas Sch\xFCler"
+  - Reiner Schulte
+  - Axel Ronald Schulz
+  - Sebastian R. Schulz
+  - "Cristiano Scott\xE1"
+  - "Daniel Scott\u2010Algara"
+  - David P. Sester
+  - T. Vincent Shankey
+  - "Bruno Silva\u2010Santos"
+  - Anna Katharina Simon
+  - Katarzyna M. Sitnik
+  - Silvano Sozzani
+  - Daniel E. Speiser
+  - Josef Spidlen
+  - Anders Stahlberg
+  - Alan M. Stall
+  - Natalie Stanley
+  - Regina Stark
+  - Christina Stehle
+  - Tobit Steinmetz
+  - Hannes Stockinger
+  - Yousuke Takahama
+  - Kiyoshi Takeda
+  - Leonard Tan
+  - "Attila T\xE1rnok"
+  - Gisa Tiegs
+  - Gergely Toldi
+  - Julia Tornack
+  - Elisabetta Traggiai
+  - Mohamed Trebak
+  - Timothy I.M. Tree
+  - Joe Trotter
+  - John Trowsdale
+  - Maria Tsoumakidou
+  - Henning Ulrich
+  - Sophia Urbanczyk
+  - Willem van de Veen
+  - Maries van den Broek
+  - Edwin van der Pol
+  - Sofie Van Gassen
+  - Gert Van Isterdael
+  - "Ren\xE9 A.W. van Lier"
+  - Marc Veldhoen
+  - "Salvador Vento\u2010Asturias"
+  - Paulo Vieira
+  - David Voehringer
+  - "Hans\u2010Dieter Volk"
+  - Anouk von Borstel
+  - Konrad von Volkmann
+  - Ari Waisman
+  - Rachael V. Walker
+  - Paul K. Wallace
+  - Sa A. Wang
+  - Xin M. Wang
+  - Michael D. Ward
+  - "Kirsten A Ward\u2010Hartstonge"
+  - Klaus Warnatz
+  - Gary Warnes
+  - Sarah Warth
+  - Claudia Waskow
+  - James V. Watson
+  - Carsten Watzl
+  - Leonie Wegener
+  - Thomas Weisenburger
+  - Annika Wiedemann
+  - "J\xFCrgen Wienands"
+  - Anneke Wilharm
+  - Robert John Wilkinson
+  - Gerald Willimsky
+  - James B. Wing
+  - Rieke Winkelmann
+  - Thomas H. Winkler
+  - Oliver F. Wirz
+  - Alicia Wong
+  - Peter Wurst
+  - Jennie H. M. Yang
+  - Juhao Yang
+  - Maria Yazdanbakhsh
+  - Liping Yu
+  - Alice Yue
+  - Hanlin Zhang
+  - Yi Zhao
+  - Susanne Maria Ziegler
+  - Christina Zielinski
+  - Jakob Zimmermann
+  - Arturo Zychlinsky
+  publisher: European Journal of Immunology
+  date: '2019-10-01'
+  link: https://doi.org/ggnkwf
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/2162402X.2019.1586409
+  title: Localization-associated immune phenotypes of clonally expanded tumor-infiltrating
+    T cells and distribution of their target antigens in rectal cancer
+  authors:
+  - Livius Penter
+  - Kerstin Dietze
+  - Julia Ritter
+  - Maria Fernanda Lammoglia Cobo
+  - Josefin Garmshausen
+  - Felix Aigner
+  - Lars Bullinger
+  - Holger Hackstein
+  - Sandra Wienzek-Lischka
+  - Thomas Blankenstein
+  - Michael Hummel
+  - Klaus Dornmair
+  - Leo Hansmann
+  publisher: OncoImmunology
+  date: '2019-03-24'
+  link: https://doi.org/gr9qw9
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eji.201847507
+  title: "FACS single cell index sorting is highly reliable and determines immune\
+    \ phenotypes of clonally expanded T\_cells"
+  authors:
+  - Livius Penter
+  - Kerstin Dietze
+  - Lars Bullinger
+  - "J\xF6rg Westermann"
+  - "Hans\u2010Peter Rahn"
+  - Leo Hansmann
+  publisher: European Journal of Immunology
+  date: '2018-04-03'
+  link: https://doi.org/gr9qxb
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2326-6066.cir-17-0012
+  title: Clonal Expansion and Interrelatedness of Distinct B-Lineage Compartments
+    in Multiple Myeloma Bone Marrow
+  authors:
+  - Leo Hansmann
+  - Arnold Han
+  - Livius Penter
+  - Michaela Liedtke
+  - Mark M. Davis
+  publisher: Cancer Immunology Research
+  date: '2017-08-31'
+  link: https://doi.org/gm9tw8
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/leu.2015.212
+  title: 'Ruxolitinib in corticosteroid-refractory graft-versus-host disease after
+    allogeneic stem cell transplantation: a multicenter survey'
+  authors:
+  - R Zeiser
+  - A Burchert
+  - C Lengerke
+  - M Verbeek
+  - K Maas-Bauer
+  - S K Metzelder
+  - S Spoerl
+  - M Ditschkowski
+  - M Ecsedi
+  - K Sockel
+  - F Ayuk
+  - S Ajib
+  - F S de Fontbrune
+  - I-K Na
+  - L Penter
+  - U Holtick
+  - D Wolf
+  - E Schuler
+  - E Meyer
+  - P Apostolova
+  - H Bertz
+  - R Marks
+  - "M L\xFCbbert"
+  - "R W\xE4sch"
+  - C Scheid
+  - "F St\xF6lzel"
+  - R Ordemann
+  - G Bug
+  - G Kobbe
+  - R Negrin
+  - M Brune
+  - A Spyridonidis
+  - "A Schmitt-Gr\xE4ff"
+  - W van der Velden
+  - G Huls
+  - S Mielke
+  - G U Grigoleit
+  - J Kuball
+  - R Flynn
+  - G Ihorst
+  - J Du
+  - B R Blazar
+  - R Arnold
+  - "N Kr\xF6ger"
+  - J Passweg
+  - J Halter
+  - "G Soci\xE9"
+  - D Beelen
+  - C Peschel
+  - A Neubauer
+  - J Finke
+  - J Duyster
+  - N von Bubnoff
+  publisher: Leukemia
+  date: '2015-07-31'
+  link: https://doi.org/f3nhth
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11523-014-0354-5
+  title: A rapid screening system evaluates novel inhibitors of DNA methylation and
+    suggests F-box proteins as potential therapeutic targets for high-risk neuroblastoma
+  authors:
+  - Livius Penter
+  - Bert Maier
+  - Ute Frede
+  - Benjamin Hackner
+  - Thomas Carell
+  - Christian Hagemeier
+  - Matthias Truss
+  publisher: Targeted Oncology
+  date: '2015-01-06'
+  link: https://doi.org/gr9qxc
+  orcid: 0000-0002-9060-0207
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -70,9 +980,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +996,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

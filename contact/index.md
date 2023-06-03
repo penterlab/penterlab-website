@@ -57,8 +57,8 @@ Germany
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/CVK_winter.jpeg"
+  caption="Charité - Universitätsmedizin Berlin"
 %}
 
 {% endcapture %}

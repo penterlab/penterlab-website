@@ -10,7 +10,7 @@ links:
   orcid: 0000-0002-9060-0207
   twitter: livius_tacitus
   email: mailto:livius.penter@charite.de
-  CV: CV/Penter-Livius.pdf
+  CV: Penter-Livius.pdf
 ---
 
 Livius Penter is a Clinician Scientist at Charité - Universitätsmedizin Berlin with a strong focus on 

@@ -47,8 +47,8 @@ Germany
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/CVK_spring.jpeg"
+  caption="Campus Virchow Klinikum"
 %}
 
 {% endcapture %}

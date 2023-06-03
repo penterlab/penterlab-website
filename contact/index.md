@@ -39,6 +39,8 @@ Germany
   link="https://goo.gl/maps/rKx5xR6niy4bjL7A9)"
 %}
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1134.6986815569653!2d13.338412100655182!3d52.542009075235306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a851acdf911c77%3A0xa91aed0c0bf29500!2sCharit%C3%A9%20Campus%20Virchow-Klinikum!5e0!3m2!1sen!2sus!4v1685824524432!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 {% include section.html %}
 
 {% capture col1 %}

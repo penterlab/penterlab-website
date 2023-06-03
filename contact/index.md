@@ -36,7 +36,7 @@ Germany
   include button.html
   type="address"
   tooltip="Find us on googlemaps"
-  link="https://goo.gl/maps/rKx5xR6niy4bjL7A9)"
+  link="https://goo.gl/maps/rKx5xR6niy4bjL7A9"
 %}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1586.317459022627!2d13.3442850192794!3d52.5417822486385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8517966016ab1%3A0xb24e3e213b8bcc17!2sCharit%C3%A9%20Campus%20Virchow%20Clinic!5e0!3m2!1sen!2sus!4v1685825943258!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

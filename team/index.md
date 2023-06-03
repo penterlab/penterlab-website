@@ -35,6 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% endcomment %}
 
 {% include grid.html style="square" content=content %}
+
+{% endcomment %}

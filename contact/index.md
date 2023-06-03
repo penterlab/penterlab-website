@@ -14,7 +14,7 @@ You can find us in the heart of Berlin, Germany at beautiful [Campus Virchow Kli
 of [Charité - Universitätsmedizin Berlin](www.charite.de). 
 
 AG Penter <br>
-Medizinische Klinik m.S. Hämatologie, Onkologie und Tumorimmunologie
+Medizinische Klinik m.S. Hämatologie, Onkologie und Tumorimmunologie<br>
 Campus Virchow-Klinikum <br>
 Augustenburger Platz 1<br>
 13353 Berlin <br>

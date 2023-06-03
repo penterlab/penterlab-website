@@ -25,7 +25,7 @@ We are located at Charité - Universitätsmedizin Berlin.
   include button.html
   type="address"
   tooltip="Find us on googlemaps"
-  link="[googlemaps](https://goo.gl/maps/rKx5xR6niy4bjL7A9)"
+  link="https://goo.gl/maps/rKx5xR6niy4bjL7A9)"
 %}
 
 {% include section.html %}

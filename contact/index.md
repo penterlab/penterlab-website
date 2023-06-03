@@ -10,8 +10,9 @@ nav:
 We are hiring at all levels (technician, MD or PhD student, and postdoc)! 
 Please reach out to Livius Penter ([livius.penter@charite.de](mailto:livius.penter@charite.de)) to get in touch.
 
-You can find us in the heart of Berlin, Germany at beautiful [Campus Virchow Klinikum](https://haema-onko-cvk.charite.de/) 
-of [Charité - Universitätsmedizin Berlin](https://www.charite.de). 
+You can find us in the heart of Berlin, Germany at beautiful 
+[Campus Virchow Klinikum](https://www.charite.de/en/charite/campuses/campus_virchow_klinikum/)
+of [Charité - Universitätsmedizin Berlin](https://www.charite.de/en/). 
 
 AG Penter <br>
 Medizinische Klinik m.S. Hämatologie, Onkologie und Tumorimmunologie<br>

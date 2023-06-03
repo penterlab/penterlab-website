@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Penter Lab
 subtitle: Cancer and immune cell co-evolution at Charité - Universitätsmedizin Berlin
-description: We are committed to understanding how immune cells control malignant transformation, why this fails in cancer and how we can regain tumor control through immunotherapies. We use large-scale single cell genomics approaches to dissect these interactions between tumor and immune cells with a focus on blood malignancies. <br> Our goal is to identify and develop strategies for novel immunotherapies. 
+description: Understanding cancer and immune cell interactions using large-scale single cell genomics approaches.
 header: images/background.jpg
 footer: images/background.jpg
 

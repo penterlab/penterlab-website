@@ -1,1 +1,1 @@
-Sitemap: /penterlab-website/sitemap.xml
+Sitemap: /sitemap.xml

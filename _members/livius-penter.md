@@ -1,6 +1,6 @@
 ---
 name: Livius Penter
-image: images/photo.jpg
+image: images/people/Penter-Livius.jpeg
 role: PI
 aliases:
   - L. Penter
@@ -8,6 +8,8 @@ aliases:
 links:
   home-page: https://www.penterlab.org
   orcid: 0000-0002-9060-0207
+  twitter: livius_tacitus
+  email: mailto:livius.penter@charite.de
 ---
 
 Livius Penter description

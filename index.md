@@ -1,10 +1,13 @@
 ---
 ---
 
-# penterlab's Website
+# At the intersection of large-scale single cell genomics and tumor immunology. 
 
-An engaging 1-3 sentence description of your lab.
+We are committed to understanding how immune cells control malignant transformation, why this fails in cancer and how we can regain tumor control through immunotherapies. 
 
+We use large-scale single cell genomics approaches to dissect these interactions between tumor and immune cells with a focus on blood malignancies. 
+
+Our goal is to identify and develop strategies for novel immunotherapies. 
 {% include section.html %}
 
 ## Highlights

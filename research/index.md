@@ -5,16 +5,19 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-brain" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses the dissection of mechanisms that underlie response and resistance to 
+immunotherapies and on the longitudinal tracking of tumor cell evolution using single-cell
+lineage-tracing approaches based on interrogation of natural barcodes like somatic nuclear 
+or mitochondrial DNA mutations.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease" style="rich" %}
+{% include citation.html lookup="Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial Mutations in Chronic Lymphocytic Leukemia Mirror Disease History" style="rich" %}
 
 {% include section.html %}
 

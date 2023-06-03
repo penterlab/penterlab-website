@@ -107,7 +107,7 @@ instagram:
   text: Instagram
   tooltip: Instagram
   link: https://instagram.com/$VALUE
-
+  
 youtube:
   icon: fa-brands fa-youtube
   text: YouTube
@@ -119,6 +119,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+CV:
+  icon: fa-solid fa-user
+  text: CV
+  tooltip: CV
+  link: https://github.com/penterlab/penterlab-website/_cv/$VALUE
 
 # alerts
 

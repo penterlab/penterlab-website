@@ -124,7 +124,7 @@ CV:
   icon: fa-solid fa-user
   text: CV
   tooltip: CV
-  link: https://www.penterlab.org/_cv/$VALUE
+  link: https://github.com/penterlab/penterlab-website/_cv/$VALUE
 
 # alerts
 

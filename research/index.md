@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses the dissection of mechanisms that underlie response and resistance to 
+immunotherapies and on the longitudinal tracking of tumor cell evolution using single-cell
+lineage-tracing approaches like read out of somatic nuclear or mitochondrial DNA
+mutations at single cell resolution.
 
 {% include section.html %}
 

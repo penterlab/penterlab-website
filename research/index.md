@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-brain" %}Research
 
 Our research focuses the dissection of mechanisms that underlie response and resistance to 
 immunotherapies and on the longitudinal tracking of tumor cell evolution using single-cell

@@ -1,27 +1,21 @@
-- id: 10.1182/blood.2022018246
+- id: doi:10.1182/blood.2022018246
   type: paper
+  date: 2023-04-13
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
-
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: Single cell RNA sequencing analysis dissecting responses to ipilimumab treatment of relapsed AML/MDS with and without stem cell transplantation.
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+   - scRNA-seq
+   - AML
+   - immunotherapy
+   - stem cell transplantation
+   
+- id: doi:10.1158/2159-8290.CD-21-0276
+  type: paper
+  date: 2021-12-01
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerdiscovery/11/12/10.1158_2159-8290.cd-11-12-iti/1/m_2945photo4.jpeg
+  description: First demonstration that longitudinal changes of mitochondrial DNA mutations reflect therapeutic bottlenecks. 
+  tags:
+   - mtDNA mutations
+   - lineage-tracing
+   - CLL
+   - clonal evolution

@@ -41,8 +41,10 @@
   date: '2023-04-13'
   link: https://doi.org/gr9qwz
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ashpublications.org/view-large/figure/11655499/BLOOD_BLD-2022-017686-gr1.jpg
 - id: doi:10.1182/blood.2022018246
   title: Mechanisms of response and resistance to combined decitabine and ipilimumab
     for advanced myeloid disease
@@ -166,8 +168,10 @@
   date: '2022-12-06'
   link: https://doi.org/gr9qw3
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
 - id: doi:10.1158/2326-6066.CIR-22-0434
   title: "Immune Phenotypes and Target Antigens of Clonally Expanded Bone Marrow T\
     \ Cells in Treatment-Na\xEFve Multiple Myeloma"

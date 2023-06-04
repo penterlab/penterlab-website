@@ -227,7 +227,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ashpublications.org/view-large/figure/10721289/bloodBLD2022017614Cf1.tif
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/140/11/7/m_bloodjournal_140_11.cover.png
 - id: doi:10.1158/1078-0432.CCR-21-2834
   title: Improved T-cell Immunity Following Neoadjuvant Chemotherapy in Ovarian Cancer
   authors:
@@ -416,7 +416,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/137/23/10.1182_blood.2021010867/5/m_bloodbld2021010867absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/issue/5/22/22/m_advances_5_22.cover.png
   description: Dissection of exceptional responses to CTLA-4 blockade in relapsed
     leukemia cutis after allogeneic stem cell transplantation.
   tags:

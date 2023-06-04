@@ -43,7 +43,14 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/141/15/10.1182_blood.2022017686/2/m_blood_bld-2022-017686-gr1.jpeg
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
+  description: Clinical study of CTLA-4 blockade and decitabine in relapsed AML/MDS
+    with or without stem cell transplantation.
+  tags:
+  - AML
+  - MDS
+  - CTLA-4 blockade
+  - stem cell transplantation
 - id: doi:10.1182/blood.2022018246
   title: Mechanisms of response and resistance to combined decitabine and ipilimumab
     for advanced myeloid disease
@@ -119,6 +126,12 @@
   plugin: sources.py
   file: sources.yaml
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/83/5/4/m_canres_83_5_cover.png
+  description: First demonstration of mtDNA mutation-based lineage-tracing in murine
+    cancer models.
+  tags:
+  - CLL
+  - mtDNA mutations
+  - lineage-tracing
 - id: doi:10.1158/2643-3230.BCD-22-0082
   title: <i>In Vivo</i>Modeling of CLL Transformation to Richter Syndrome Reveals
     Convergent Evolutionary Paths and Therapeutic Vulnerabilities

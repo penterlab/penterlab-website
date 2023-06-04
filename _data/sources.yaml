@@ -27,3 +27,12 @@
 - id: doi:10.1158/2643-3230.BCD-22-0082
   type: paper
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
+  
+- id: doi:10.1158/0008-5472.CAN-22-0275
+  type: paper
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/83/5/4/m_canres_83_5_cover.png
+  
+- id: doi:10.1158/2326-6066.CIR-22-0434
+  type: paper
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
+  

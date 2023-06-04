@@ -40,7 +40,8 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
   
 - id: doi:10.1182/blood.2022017614
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/140/11/7/m_bloodjournal_140_11.cover.png
+  image: images/publications/2022-Blood-Penter.png
+  description: Comment on [Gournay et al.](https://doi.org/10.1182/blood.2022015522) describing post-transplant immune reconstitution dynamics.
   
 - id: doi:10.1016/j.jcyt.2022.03.005
   image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml

@@ -967,6 +967,54 @@
   orcid: 0000-0002-9060-0207
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1182/blood.2022018246
+  title: Mechanisms of response and resistance to combined decitabine and ipilimumab
+    for advanced myeloid disease
+  authors:
+  - Livius Penter
+  - Yang Liu
+  - Jacquelyn O. Wolff
+  - Lin Yang
+  - Len Taing
+  - Aashna Jhaveri
+  - Jackson Southard
+  - Manishkumar Patel
+  - Nicole M. Cullen
+  - Kathleen L. Pfaff
+  - Nicoletta Cieri
+  - Giacomo Oliveira
+  - Seunghee Kim-Schulze
+  - Srinika Ranasinghe
+  - Rebecca Leonard
+  - Taylor Robertson
+  - Elizabeth A. Morgan
+  - Helen X. Chen
+  - Minkyung H. Song
+  - Magdalena Thurin
+  - Shuqiang Li
+  - Scott J. Rodig
+  - Carrie Cibulskis
+  - Stacey Gabriel
+  - Pavan Bachireddy
+  - Jerome Ritz
+  - Howard Streicher
+  - Donna S. Neuberg
+  - F. Stephen Hodi
+  - Matthew S. Davids
+  - Sacha Gnjatic
+  - Kenneth J. Livak
+  - Jennifer Altreuter
+  - Franziska Michor
+  - Robert J. Soiffer
+  - Jacqueline S. Garcia
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2023-04-13'
+  link: https://doi.org/gr9qw2
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:

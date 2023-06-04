@@ -43,7 +43,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/141/15/10.1182_blood.2022017686/2/m_blood_bld-2022-017686-gr1.jpeg
 - id: doi:10.1182/blood.2022018246
   title: Mechanisms of response and resistance to combined decitabine and ipilimumab
     for advanced myeloid disease

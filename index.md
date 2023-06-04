@@ -7,7 +7,7 @@ We are committed to understanding how immune cells control malignant transformat
 
 We use large-scale single cell genomics approaches to dissect these interactions between tumor and immune cells with a focus on blood malignancies. 
 
-Our goal is to identify and develop strategies for novel immunotherapies. 
+Our goal is to identify and develop strategies for novel immunotherapies. [Join us!](joinus)
 {% include section.html %}
 
 ## Highlights

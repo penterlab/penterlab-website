@@ -5,12 +5,13 @@ role: PI
 aliases:
   - L. Penter
   - L Penter
+  - Penter
 links:
   home-page: https://www.penterlab.org
   orcid: 0000-0002-9060-0207
   twitter: livius_tacitus
   email: mailto:livius.penter@charite.de
-  CV: Penter-Livius.pdf
+  CV: CV-Penter-Livius.pdf
 ---
 
 Livius Penter is a Clinician Scientist at Charité - Universitätsmedizin Berlin with a strong focus on 

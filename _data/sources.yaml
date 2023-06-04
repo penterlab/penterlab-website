@@ -1,23 +1,104 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: doi:10.1182/blood.2022018246
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
+  description: Single cell RNA sequencing analysis dissecting responses to ipilimumab treatment of relapsed AML/MDS with and without stem cell transplantation.
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+   - scRNA-seq
+   - AML
+   - immunotherapy
+   - stem cell transplantation
+   
+- id: doi:10.1158/2159-8290.CD-21-0276
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerdiscovery/11/12/10.1158_2159-8290.cd-11-12-iti/1/m_2945photo4.jpeg
+  description: First demonstration that longitudinal changes of mitochondrial DNA mutations reflect therapeutic bottlenecks. 
+  tags:
+   - mtDNA mutations
+   - lineage-tracing
+   - CLL
+   - clonal evolution
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1182/blood.2022017686
+  image: images/publications/2023-Blood-Garcia.png
+  description: Clinical study of CTLA-4 blockade and decitabine in relapsed AML/MDS with or without stem cell transplantation.
+  tags:
+    - AML
+    - MDS
+    - CTLA-4 blockade
+    - stem cell transplantation
+    
+- id: doi:10.1158/2643-3230.BCD-22-0082
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
+  
+- id: doi:10.1158/0008-5472.CAN-22-0275
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/83/5/4/m_canres_83_5_cover.png
+  description: First demonstration of mtDNA mutation-based lineage-tracing in murine cancer models.
+  tags: 
+    - CLL
+    - mtDNA mutations
+    - lineage-tracing
+    
+- id: doi:10.1158/2326-6066.CIR-22-0434
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
+  
+- id: doi:10.1182/blood.2022017614
+  image: images/publications/2022-Blood-Penter.png
+  description: Comment on [Gournay et al.](https://doi.org/10.1182/blood.2022015522) describing post-transplant immune reconstitution dynamics.
+  
+- id: doi:10.1016/j.jcyt.2022.03.005
+  image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1158/1078-0432.CCR-21-2834
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/15/2/m_clincanres_28_15_cover.png
+  
+- id: doi:10.3389/fimmu.2021.788891
+  image: https://www.frontiersin.org/files/Articles/788891/fimmu-12-788891-HTML/image_m/fimmu-12-788891-g001.jpg
+
+- id: doi:10.1182/bloodadvances.2021004335
+  image: images/publications/2021-Blood-Advances-Penter.png
+  description: Integrated analysis of exceptional response to PD-1 inhibition in relapsed sAML after allogeneic stem cell transplantation with scRNA-seq, CITE-seq, scATAC-seq and CyTOF.
+
+- id: doi:10.1182/blood.2021010867
+  image: images/publications/2021-Blood-Penter.png
+  description: Dissection of exceptional responses to CTLA-4 blockade in relapsed leukemia cutis after allogeneic stem cell transplantation.
+  tags:
+   - leukemia cutis
+   - CTLA-4 blockade
+   - stem cell transplantation
+
+- id: doi:10.1172/JCI129209
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/129000/129209/medium/JCI129209.f1.jpg
+  description: Review of targets for cellular immunotherapies in blood malignancies.
+  tags:
+   - mHAgs
+   - neoantigens
+   - stem cell transplantation
+   - immunogenomics
+  
+- id: doi:10.1002/eji.201970107
+  image: https://onlinelibrary.wiley.com/cms/asset/8f22b04f-5691-4d44-aff2-2bf43eb3a8ca/eji.v49.10.cover.jpg
+  description: Best practices for flow cytometry. 
+  
+- id: doi:10.1080/2162402X.2019.1586409
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/koni20.v008.i06
+  description: Phenotypes and T cell receptor sequences of tumor-infiltrating lymphocytes compared to physiologic tissue-resident T cells.
+  tags:
+    - rectal cancer
+    - tumor-infiltrating lymphocytes
+    - PD-1 
+
+- id: doi:10.1002/eji.201847507
+  description: Demonstration of the high accuracy of FACS index sorting using single T and B cell receptor sequencing. 
+  image: https://onlinelibrary.wiley.com/cms/asset/ff97c041-128f-4ec7-bdbf-d64149611b0b/eji4220-gra-0001-m.png
+  tags:
+    - FACS index sorting
+    - TCR
+    - BCR
+  
+- id: doi:10.1158/2326-6066.cir-17-0012
+  description: Identification of myeloma clones in phenotypically healthy B cell compartment using B cell receptor sequencing.
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/5/9/3/m_canimm_5_9_cover.png
+  
+- id: doi:10.1038/leu.2015.212
+  image: https://static-content.springer.com/cover/journal/41375/29/10.jpg
+  
+- id: doi:10.1007/s11523-014-0354-5
+  image: https://static-content.springer.com/cover/journal/11523/10/4.jpg

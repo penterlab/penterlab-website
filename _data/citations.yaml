@@ -43,7 +43,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
+  image: images/publications/2023-Blood-Garcia.png
   description: Clinical study of CTLA-4 blockade and decitabine in relapsed AML/MDS
     with or without stem cell transplantation.
   tags:
@@ -227,7 +227,9 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/140/11/7/m_bloodjournal_140_11.cover.png
+  image: images/publications/2022-Blood-Penter.png
+  description: Comment on [Gournay et al.](https://doi.org/10.1182/blood.2022015522)
+    describing post-transplant immune reconstitution dynamics.
 - id: doi:10.1158/1078-0432.CCR-21-2834
   title: Improved T-cell Immunity Following Neoadjuvant Chemotherapy in Ovarian Cancer
   authors:
@@ -364,7 +366,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/5/22/10.1182_bloodadvances.2021004335/4/m_advancesadv2021004335absf1.png
+  image: images/publications/2021-Blood-Advances-Penter.png
   description: Integrated analysis of exceptional response to PD-1 inhibition in relapsed
     sAML after allogeneic stem cell transplantation with scRNA-seq, CITE-seq, scATAC-seq
     and CyTOF.
@@ -416,7 +418,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/issue/5/22/22/m_advances_5_22.cover.png
+  image: images/publications/2021-Blood-Penter.png
   description: Dissection of exceptional responses to CTLA-4 blockade in relapsed
     leukemia cutis after allogeneic stem cell transplantation.
   tags:
@@ -436,6 +438,12 @@
   plugin: sources.py
   file: sources.yaml
   image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/129000/129209/medium/JCI129209.f1.jpg
+  description: Review of targets for cellular immunotherapies in blood malignancies.
+  tags:
+  - mHAgs
+  - neoantigens
+  - stem cell transplantation
+  - immunogenomics
 - id: doi:10.1002/eji.201970107
   title: Guidelines for the use of flow cytometry and cell sorting in immunological
     studies (second edition)
@@ -883,6 +891,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/8f22b04f-5691-4d44-aff2-2bf43eb3a8ca/eji.v49.10.cover.jpg
+  description: Best practices for flow cytometry.
 - id: doi:10.1080/2162402X.2019.1586409
   title: Localization-associated immune phenotypes of clonally expanded tumor-infiltrating
     T cells and distribution of their target antigens in rectal cancer
@@ -907,6 +916,12 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/koni20.v008.i06
+  description: Phenotypes and T cell receptor sequences of tumor-infiltrating lymphocytes
+    compared to physiologic tissue-resident T cells.
+  tags:
+  - rectal cancer
+  - tumor-infiltrating lymphocytes
+  - PD-1
 - id: doi:10.1002/eji.201847507
   title: "FACS single cell index sorting is highly reliable and determines immune\
     \ phenotypes of clonally expanded T\_cells"
@@ -923,7 +938,13 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
+  description: Demonstration of the high accuracy of FACS index sorting using single
+    T and B cell receptor sequencing.
   image: https://onlinelibrary.wiley.com/cms/asset/ff97c041-128f-4ec7-bdbf-d64149611b0b/eji4220-gra-0001-m.png
+  tags:
+  - FACS index sorting
+  - TCR
+  - BCR
 - id: doi:10.1158/2326-6066.cir-17-0012
   title: Clonal Expansion and Interrelatedness of Distinct B-Lineage Compartments
     in Multiple Myeloma Bone Marrow
@@ -939,6 +960,8 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
+  description: Identification of myeloma clones in phenotypically healthy B cell compartment
+    using B cell receptor sequencing.
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/5/9/3/m_canimm_5_9_cover.png
 - id: doi:10.1038/leu.2015.212
   title: 'Ruxolitinib in corticosteroid-refractory graft-versus-host disease after

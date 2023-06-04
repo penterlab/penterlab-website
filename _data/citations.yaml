@@ -85,11 +85,20 @@
   - Jacqueline S. Garcia
   - Catherine J. Wu
   publisher: Blood
-  date: '2023-04-13'
+  date: ''
   link: https://doi.org/gr9qw2
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
+  description: Single cell RNA sequencing analysis dissecting responses to ipilimumab
+    treatment of relapsed AML/MDS with and without stem cell transplantation.
+  tags:
+  - scRNA-seq
+  - AML
+  - immunotherapy
+  - stem cell transplantation
 - id: doi:10.1158/0008-5472.CAN-22-0275
   title: Mitochondrial DNA Mutations as Natural Barcodes for Lineage Tracing of Murine
     Tumor Models
@@ -299,11 +308,20 @@
   - Vijay G. Sankaran
   - Catherine J. Wu
   publisher: Cancer Discovery
-  date: '2021-12-01'
+  date: ''
   link: https://doi.org/gkjb9d
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerdiscovery/11/12/10.1158_2159-8290.cd-11-12-iti/1/m_2945photo4.jpeg
+  description: First demonstration that longitudinal changes of mitochondrial DNA
+    mutations reflect therapeutic bottlenecks.
+  tags:
+  - mtDNA mutations
+  - lineage-tracing
+  - CLL
+  - clonal evolution
 - id: doi:10.1182/bloodadvances.2021004335
   title: 'Coevolving JAK2V617F+relapsed AML and donor T cells with PD-1 blockade after
     stem cell transplantation: an index case'
@@ -967,109 +985,3 @@
   orcid: 0000-0002-9060-0207
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1182/blood.2022018246
-  title: Mechanisms of response and resistance to combined decitabine and ipilimumab
-    for advanced myeloid disease
-  authors:
-  - Livius Penter
-  - Yang Liu
-  - Jacquelyn O. Wolff
-  - Lin Yang
-  - Len Taing
-  - Aashna Jhaveri
-  - Jackson Southard
-  - Manishkumar Patel
-  - Nicole M. Cullen
-  - Kathleen L. Pfaff
-  - Nicoletta Cieri
-  - Giacomo Oliveira
-  - Seunghee Kim-Schulze
-  - Srinika Ranasinghe
-  - Rebecca Leonard
-  - Taylor Robertson
-  - Elizabeth A. Morgan
-  - Helen X. Chen
-  - Minkyung H. Song
-  - Magdalena Thurin
-  - Shuqiang Li
-  - Scott J. Rodig
-  - Carrie Cibulskis
-  - Stacey Gabriel
-  - Pavan Bachireddy
-  - Jerome Ritz
-  - Howard Streicher
-  - Donna S. Neuberg
-  - F. Stephen Hodi
-  - Matthew S. Davids
-  - Sacha Gnjatic
-  - Kenneth J. Livak
-  - Jennifer Altreuter
-  - Franziska Michor
-  - Robert J. Soiffer
-  - Jacqueline S. Garcia
-  - Catherine J. Wu
-  publisher: Blood
-  date: '2023-04-13'
-  link: https://doi.org/gr9qw2
-  type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml

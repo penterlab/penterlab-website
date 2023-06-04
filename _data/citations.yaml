@@ -351,7 +351,10 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/5/22/10.1182_bloodadvances.2021004335/4/advancesadv2021004335absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/5/22/10.1182_bloodadvances.2021004335/4/m_advancesadv2021004335absf1.png
+  description: Integrated analysis of exceptional response to PD-1 inhibition in relapsed
+    sAML after allogeneic stem cell transplantation with scRNA-seq, CITE-seq, scATAC-seq
+    and CyTOF.
 - id: doi:10.1182/blood.2021010867
   title: Molecular and cellular features of CTLA-4 blockade for relapsed myeloid malignancies
     after transplantation
@@ -400,7 +403,13 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/137/23/10.1182_blood.2021010867/5/bloodbld2021010867absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/137/23/10.1182_blood.2021010867/5/m_bloodbld2021010867absf1.png
+  description: Dissection of exceptional responses to CTLA-4 blockade in relapsed
+    leukemia cutis after allogeneic stem cell transplantation.
+  tags:
+  - leukemia cutis
+  - CTLA-4 blockade
+  - stem cell transplantation
 - id: doi:10.1172/JCI129209
   title: 'Personal tumor antigens in blood malignancies: genomics-directed identification
     and targeting'

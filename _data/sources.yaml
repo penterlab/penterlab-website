@@ -36,3 +36,15 @@
 
 - id: doi:10.1158/1078-0432.CCR-21-2834
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/15/2/m_clincanres_28_15_cover.png
+  
+- id: doi:10.3389/fimmu.2021.788891
+  image: https://www.frontiersin.org/files/Articles/788891/fimmu-12-788891-HTML/image_m/fimmu-12-788891-g001.jpg
+
+- id: doi:10.1182/bloodadvances.2021004335
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/5/22/10.1182_bloodadvances.2021004335/4/advancesadv2021004335absf1.png
+  
+- id: doi:10.1182/blood.2021010867
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/137/23/10.1182_blood.2021010867/5/bloodbld2021010867absf1.png
+  
+- id: doi:10.1172/JCI129209
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/129000/129209/medium/JCI129209.f1.jpg

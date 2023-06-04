@@ -43,7 +43,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
+  image: images/publications/2023-Blood-Garcia.png
   description: Clinical study of CTLA-4 blockade and decitabine in relapsed AML/MDS
     with or without stem cell transplantation.
   tags:

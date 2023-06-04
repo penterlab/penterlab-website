@@ -227,7 +227,9 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/140/11/7/m_bloodjournal_140_11.cover.png
+  image: images/publications/2022-Blood-Penter.png
+  description: Comment on [Gournay et al.](https://doi.org/10.1182/blood.2022015522)
+    describing post-transplant immune reconstitution dynamics.
 - id: doi:10.1158/1078-0432.CCR-21-2834
   title: Improved T-cell Immunity Following Neoadjuvant Chemotherapy in Ovarian Cancer
   authors:

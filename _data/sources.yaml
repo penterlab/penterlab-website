@@ -17,14 +17,25 @@
    - clonal evolution
 
 - id: doi:10.1182/blood.2022017686
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/141/15/10.1182_blood.2022017686/2/m_blood_bld-2022-017686-gr1.jpeg
-  
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
+  description: Clinical study of CTLA-4 blockade and decitabine in relapsed AML/MDS with or without stem cell transplantation.
+  tags:
+    - AML
+    - MDS
+    - CTLA-4 blockade
+    - stem cell transplantation
+    
 - id: doi:10.1158/2643-3230.BCD-22-0082
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
   
 - id: doi:10.1158/0008-5472.CAN-22-0275
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/83/5/4/m_canres_83_5_cover.png
-  
+  description: First demonstration of mtDNA mutation-based lineage-tracing in murine cancer models.
+  tags: 
+    - CLL
+    - mtDNA mutations
+    - lineage-tracing
+    
 - id: doi:10.1158/2326-6066.CIR-22-0434
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
   

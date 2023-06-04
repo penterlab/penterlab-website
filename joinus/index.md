@@ -19,7 +19,7 @@ Our approach puts an emphasis on creative and deep mining of immunogenomic datas
 
 We are looking for wet-lab and dry-lab oriented researchers at all levels (technician, master or MD thesis, PhD student, postdoc).
 
-We are committed to the personal growth and advancement of the academic career of each member who joins our lab. 
+We are committed to the personal growth and academic career advancement of each member who joins our lab. 
 
 Please write to [Livius Penter](mailto:livius.penter@charite.de) why you want to join the lab together with your CV. 
 

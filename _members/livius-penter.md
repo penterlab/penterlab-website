@@ -5,6 +5,7 @@ role: PI
 aliases:
   - L. Penter
   - L Penter
+  - Penter
 links:
   home-page: https://www.penterlab.org
   orcid: 0000-0002-9060-0207

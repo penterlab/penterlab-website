@@ -43,8 +43,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  image: https://ashpublications.org/view-large/figure/11655499/BLOOD_BLD-2022-017686-gr1.jpg
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/141/15/4/m_bloodjournal_141_15.cover.png
 - id: doi:10.1182/blood.2022018246
   title: Mechanisms of response and resistance to combined decitabine and ipilimumab
     for advanced myeloid disease
@@ -87,12 +86,11 @@
   - Jacqueline S. Garcia
   - Catherine J. Wu
   publisher: Blood
-  date: ''
+  date: '2023-04-13'
   link: https://doi.org/gr9qw2
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
   description: Single cell RNA sequencing analysis dissecting responses to ipilimumab
     treatment of relapsed AML/MDS with and without stem cell transplantation.
@@ -120,7 +118,6 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/83/5/4/m_canres_83_5_cover.png
 - id: doi:10.1158/2643-3230.BCD-22-0082
   title: <i>In Vivo</i>Modeling of CLL Transformation to Richter Syndrome Reveals
@@ -172,7 +169,6 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
 - id: doi:10.1158/2326-6066.CIR-22-0434
   title: "Immune Phenotypes and Target Antigens of Clonally Expanded Bone Marrow T\
@@ -206,7 +202,6 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
 - id: doi:10.1182/blood.2022017614
   title: AML relapse after a TIGIT race
@@ -217,8 +212,9 @@
   date: '2022-09-15'
   link: https://doi.org/gr9qw5
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ashpublications.org/view-large/figure/10721289/bloodBLD2022017614Cf1.tif
 - id: doi:10.1158/1078-0432.CCR-21-2834
   title: Improved T-cell Immunity Following Neoadjuvant Chemotherapy in Ovarian Cancer
   authors:
@@ -250,8 +246,9 @@
   date: '2022-04-20'
   link: https://doi.org/gr9qw6
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/15/2/m_clincanres_28_15_cover.png
 - id: doi:10.1016/j.jcyt.2022.03.005
   title: "Rapid single-cell identification of Epstein\u2013Barr virus-specific T-cell\
     \ receptors for cellular therapy"
@@ -276,8 +273,9 @@
   date: '2022-08-01'
   link: https://doi.org/gr9qw7
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml
 - id: doi:10.3389/fimmu.2021.788891
   title: Natural Barcodes for Longitudinal Single Cell Tracking of Leukemic and Immune
     Cell Dynamics
@@ -316,12 +314,11 @@
   - Vijay G. Sankaran
   - Catherine J. Wu
   publisher: Cancer Discovery
-  date: ''
+  date: '2021-12-01'
   link: https://doi.org/gkjb9d
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  type: paper
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerdiscovery/11/12/10.1158_2159-8290.cd-11-12-iti/1/m_2945photo4.jpeg
   description: First demonstration that longitudinal changes of mitochondrial DNA
     mutations reflect therapeutic bottlenecks.

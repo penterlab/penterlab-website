@@ -40,7 +40,7 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerimmunolres/issue/10/11/2/m_canimm_10_11_cover.png
   
 - id: doi:10.1182/blood.2022017614
-  image: https://ashpublications.org/view-large/figure/10721289/bloodBLD2022017614Cf1.tif
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/issue/140/11/7/m_bloodjournal_140_11.cover.png
   
 - id: doi:10.1016/j.jcyt.2022.03.005
   image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml
@@ -56,7 +56,7 @@
   description: Integrated analysis of exceptional response to PD-1 inhibition in relapsed sAML after allogeneic stem cell transplantation with scRNA-seq, CITE-seq, scATAC-seq and CyTOF.
 
 - id: doi:10.1182/blood.2021010867
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/137/23/10.1182_blood.2021010867/5/m_bloodbld2021010867absf1.png
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/issue/5/22/22/m_advances_5_22.cover.png
   description: Dissection of exceptional responses to CTLA-4 blockade in relapsed leukemia cutis after allogeneic stem cell transplantation.
   tags:
    - leukemia cutis

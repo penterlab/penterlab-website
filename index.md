@@ -10,6 +10,8 @@ We use large-scale single cell genomics approaches to dissect these interactions
 Our goal is to identify and develop strategies for novel immunotherapies. [Join us!](joinus)
 {% include section.html %}
 
+{% comment %}
+
 ## Highlights
 
 {% capture text %}
@@ -82,3 +84,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% endcomment %}

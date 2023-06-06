@@ -1,5 +1,5 @@
 ---
-title: Projects
-layout: forward
-target: https://www.penterlab.org/research
+title:    Projects
+layout:   redirect
+redirect: https://www.penterlab.org/research
 ---

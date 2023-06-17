@@ -1,7 +1,7 @@
 ---
 name: Livius Penter
 image: images/people/Penter-Livius.jpeg
-role: PI
+role: pi
 aliases:
   - L. Penter
   - L Penter

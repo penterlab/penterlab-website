@@ -4,6 +4,8 @@ subtitle: Cancer and immune cell co-evolution at Charité - Universitätsmedizin
 description: Understanding cancer and immune cell interactions using large-scale single cell genomics approaches.
 header: images/background.png
 footer: images/background.png
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:

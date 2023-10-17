@@ -1,3 +1,12 @@
+- id: 10.1126/sciimmunol.adf4968
+  image: https://www.science.org/cms/asset/44ab435a-1a84-4461-838e-33b0073b733b/sciimmunol.2023.8.issue-87.largecover.jpg
+  description: First demonstration that preexisting tumor-resident T cells associate with response to neoadjuvant anti-PD-1 in head and neck cancer
+  tags:
+   - scRNA-seq
+   - PD-1
+   - immunotherapy
+   - tumor immunology
+
 - id: doi:10.1182/blood.2022018246
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006497123002355-BLOOD_BLD-2022-018246-fx1_lrg.jpg
   description: Single cell RNA sequencing analysis dissecting responses to ipilimumab treatment of relapsed AML/MDS with and without stem cell transplantation.

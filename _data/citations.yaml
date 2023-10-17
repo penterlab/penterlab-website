@@ -1045,3 +1045,59 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: 10.1126/sciimmunol.adf4968
+  title: "Preexisting tumor-resident T cells with cytotoxic potential associate with\
+    \ response to neoadjuvant anti\u2013PD-1 in head and neck cancer"
+  authors:
+  - Giacomo Oliveira
+  - Ann Marie Egloff
+  - Alexander B. Afeyan
+  - Jacquelyn O. Wolff
+  - Zexiang Zeng
+  - Rebecca D. Chernock
+  - Liye Zhou
+  - Cameron Messier
+  - Patrick Lizotte
+  - Kathleen L. Pfaff
+  - Kari Stromhaug
+  - Livius Penter
+  - Robert I. Haddad
+  - Glenn J. Hanna
+  - Jonathan D. Schoenfeld
+  - Laura A. Goguen
+  - Donald J. Annino
+  - Vickie Jo
+  - Peter Oppelt
+  - Patrik Pipkorn
+  - Ryan Jackson
+  - Sidharth V. Puram
+  - Randal C. Paniello
+  - Jason T. Rich
+  - Jason Webb
+  - Jose P. Zevallos
+  - Mena Mansour
+  - Jingxin Fu
+  - Gavin P. Dunn
+  - Scott J. Rodig
+  - Jessica Ley
+  - "Luc G.\_T. Morris"
+  - Lara Dunn
+  - Cloud P. Paweletz
+  - Dorina Kallogjeri
+  - Jay F. Piccirillo
+  - Douglas R. Adkins
+  - Catherine J. Wu
+  - Ravindra Uppaluri
+  publisher: Science Immunology
+  date: '2023-09-08'
+  link: https://doi.org/gsv8n8
+  image: https://www.science.org/cms/asset/44ab435a-1a84-4461-838e-33b0073b733b/sciimmunol.2023.8.issue-87.largecover.jpg
+  description: Preexisting tumor-resident T cells with cytotoxic potential associate
+    with response to neoadjuvant anti-PD-1 in head and neck cancer
+  tags:
+  - scRNA-seq
+  - PD-1
+  - immunotherapy
+  - tumor immunology
+  plugin: sources.py
+  file: sources.yaml

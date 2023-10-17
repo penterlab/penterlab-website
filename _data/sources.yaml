@@ -1,6 +1,6 @@
 - id: 10.1126/sciimmunol.adf4968
   image: https://www.science.org/cms/asset/44ab435a-1a84-4461-838e-33b0073b733b/sciimmunol.2023.8.issue-87.largecover.jpg
-  description: Preexisting tumor-resident T cells with cytotoxic potential associate with response to neoadjuvant anti-PD-1 in head and neck cancer
+  description: First demonstration that preexisting tumor-resident T cells associate with response to neoadjuvant anti-PD-1 in head and neck cancer
   tags:
    - scRNA-seq
    - PD-1

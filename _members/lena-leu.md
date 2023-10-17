@@ -12,3 +12,4 @@ links:
 ---
 
 Lena is a biologic technical assistant who graduated from OSZ Lise Meitner school in Berlin in 2023. 
+She is excited about biomedical research in blood cancer and tumor immunology. 

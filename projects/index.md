@@ -19,8 +19,10 @@ therapeutically relevant T cell populations**.
 The availability of approaches to resolve genetic and phenotypic information within the same cell opens up 
 opportunities to better understand how immune resistance mechanisms develop that provide selective advantage 
 and fuel clonal evolution. 
+
 We use multi-omics single cell data to dissect longitudinal changes in the cell state of leukemic clones defined by natural genetic barcodes
 and to gain novel insights into mechanisms that underpin relapse after immunotherapy. 
+
 We are also excited about the possibility to integrate multiple genetic barcodes (mitochondrial and somatic nuclear DNA mutations,
 copy number changes, expressed germline single nucleotide polymorphisms) to track rare malignant cells and to distinguish
 donor- from recipient-derived cells in the post-transplant context. 
@@ -47,7 +49,15 @@ donor- from recipient-derived cells in the post-transplant context.
 
 ## Leukemia-specific T cell responses 
 
-While immune checkpoint blockade and adaptive T cell therapy is reshaping solid tumors, 
+While immune checkpoint blockade and adaptive T cell therapy are transformative immunotherapies in solid tumors, 
+they have so far seen much less success in blood malignancies. This likely relates to differences in 
+mutational burden, the frequency of tumor-specific T cells and their phenotypes between hematologic and 
+solid malignancies. A deeper understanding of the phenotypes and dynamics of leukemia-specific T cells is needed
+to advance T cell therapies for blood cancer. 
+
+We use single cell and spatial sequencing approaches to identify therapeutically relevant T cells, for example
+in the context of allogeneic stem cell transplantation. We are also excited about understanding the phenotypes
+of T cells in extramedullary sites, given observed sensitivity of leukemia cutis to CTLA-4 blockade. 
 
 {%
   include figure.html
@@ -67,13 +77,7 @@ While immune checkpoint blockade and adaptive T cell therapy is reshaping solid 
   lookup="doi:10.1182/blood.2021010867"
 %}
 
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{%
+  include citation.html
+  lookup="doi:10.1182/bloodadvances.2021004335"
+%}

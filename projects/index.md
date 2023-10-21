@@ -103,3 +103,11 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
   link="https://www.bihealth.org/en/translation/innovation-enabler/academy/bih-charite-clinician-scientist-program"
   width="200px"
 %}
+
+{%
+  include figure.html
+  image="images/funding/ASH.png"
+  caption="ASH Scholar Award"
+  link="https://hematology.org/"
+  width="100px"
+%}

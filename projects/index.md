@@ -55,9 +55,9 @@ mutational burden, the frequency of tumor-specific T cells and their phenotypes 
 solid malignancies. A deeper understanding of the phenotypes and dynamics of leukemia-specific T cells is needed
 to advance T cell therapies for blood cancer. 
 
-We use single cell and spatial sequencing approaches to identify therapeutically relevant T cells, for example
+We use single cell and spatial sequencing approaches to characterize and track therapeutically relevant T cells, for example
 in the context of allogeneic stem cell transplantation. We are also excited about understanding the phenotypes
-of T cells in extramedullary sites, given observed sensitivity of leukemia cutis to CTLA-4 blockade. 
+of T cells in extramedullary manifestations of AML, given observed sensitivity of leukemia cutis to CTLA-4 blockade. 
 
 {%
   include figure.html
@@ -80,4 +80,26 @@ of T cells in extramedullary sites, given observed sensitivity of leukemia cutis
 {%
   include citation.html
   lookup="doi:10.1182/bloodadvances.2021004335"
+%}
+
+***
+
+{% include section.html %}
+
+## Funding
+
+{%
+  include figure.html
+  image="images/funding/Krebshilfe.png"
+  caption="Max-Eder Research Group"
+  link="https://www.krebshilfe.de/"
+  width="200px"
+%}
+
+{%
+  include figure.html
+  image="images/funding/BIH.jpeg"
+  caption="BIH Charité Digital Clinician Scientist Program"
+  link="https://www.bihealth.org/en/translation/innovation-enabler/academy/bih-charite-clinician-scientist-program"
+  width="200px"
 %}

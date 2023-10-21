@@ -7,8 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+To understand co-evolution of leukemic and immune cell populations, we are interested in lineage-tracing approaches 
+that leverage natural genetic barcodes to map out clonal evolution before and after thereapeutic bottlenecks,
+and multi-omics approaches to define therapeutically relevant T cell populations. 
+
+
+
 
 {% include tags.html tags="publication, resource, website" %}
 

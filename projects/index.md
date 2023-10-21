@@ -7,15 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-To understand co-evolution of leukemic and immune cell populations, we are interested in lineage-tracing techniques 
-that leverage natural genetic barcodes to map out clonal evolution before and after thereapeutic bottlenecks,
-and multi-omics approaches to define therapeutically relevant T cell populations. 
+To understand co-evolution of leukemic and immune cell populations, we are interested in (i) lineage-tracing techniques 
+that leverage natural genetic barcodes to map out clonal evolution following immunotherapeutic bottlenecks such as 
+allogeneic stem cell transplantation, and (ii) multi-omics approaches to define therapeutically relevant T cell populations. 
 
 ## Lineage-tracing
 
+
+
 {%
   include figure.html
-  image="images/lineage-tracing.jpg"
+  image="images/lineage-tracing.jpeg"
   caption="Lineage tracing to dissect clonal evolution"
   link="https://doi.org/10.3389/fimmu.2021.788891"
   width="400px"

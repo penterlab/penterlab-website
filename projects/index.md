@@ -16,8 +16,10 @@ allogeneic stem cell transplantation, and (ii) multi-omics approaches to define 
 ## Lineage-tracing using natural genetic barcodes
 
 The availability of approaches to resolve combined genetic and phenotypic information at single cell resolution opens up 
-opportunities to study clonal evolution from the perspective of 
-
+opportunities to better understand how immune resistance mechanisms develop that provide selective advantage 
+and fuel clonal evolution. 
+We are also excited about the possibility to integrate multiple genetic barcodes (mitochondrial and somatic nuclear DNA mutations,
+copy number changes, expressed germline single nucleotide polymorphisms) to track rare malignant cells. 
 
 {%
   include figure.html
@@ -37,7 +39,9 @@ opportunities to study clonal evolution from the perspective of
   lookup="doi:10.1158/0008-5472.CAN-22-0275"
 %}
 
-## Leukemia-specific T cell responses
+{% include section.html %}
+
+## Leukemia-specific T cell responses 
 
 {%
   include citation.html

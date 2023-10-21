@@ -88,6 +88,43 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
 
 ## Funding
 
+{% capture content %}
+
+{%
+  include figure.html
+  image="images/funding/Krebshilfe.png"
+  caption="Max-Eder Research Group"
+  link="https://www.krebshilfe.de/"
+  width="200px"
+%}
+
+{%
+  include figure.html
+  image="images/funding/BIH.jpeg"
+  caption="BIH Charité Digital Clinician Scientist Program"
+  link="https://www.bihealth.org/en/translation/innovation-enabler/academy/bih-charite-clinician-scientist-program"
+  width="200px"
+%}
+
+{%
+  include figure.html
+  image="images/funding/ASH.png"
+  caption="ASH Scholar Award"
+  link="https://hematology.org/"
+  width="100px"
+%}
+
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
+
+
+## Funding 2
+
 {% capture krebshilfe %}
 
 {%

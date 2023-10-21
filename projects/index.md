@@ -88,6 +88,8 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
 
 ## Funding
 
+{% capture krebshilfe %}
+
 {%
   include figure.html
   image="images/funding/Krebshilfe.png"
@@ -95,6 +97,10 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
   link="https://www.krebshilfe.de/"
   width="200px"
 %}
+
+{% endcapture %}
+
+{% capture BIH %}
 
 {%
   include figure.html
@@ -104,6 +110,10 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
   width="200px"
 %}
 
+{% endcapture %}
+
+{% capture ASH %}
+
 {%
   include figure.html
   image="images/funding/ASH.png"
@@ -111,3 +121,8 @@ of T cells in extramedullary manifestations of AML, given observed sensitivity o
   link="https://hematology.org/"
   width="100px"
 %}
+
+{% endcapture %}
+
+{% include cols.html col1=krebshilfe col2=BIH col3=ASH %}
+

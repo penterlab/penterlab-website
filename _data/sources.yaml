@@ -1,4 +1,4 @@
-- id: 10.1038/s41467-023-44137-7
+- id: doi:10.1038/s41467-023-44137-7
   image: https://github.com/mehdiborji/nanoranger/blob/main/nanoranger_schema.png?raw=true
   description: Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing with Oxford Nanopore
   tags:
@@ -7,7 +7,7 @@
    - long-read sequencing
    - ONT 
 
-- id: 10.1126/sciimmunol.adf4968
+- id: doi:10.1126/sciimmunol.adf4968
   image: https://www.science.org/cms/asset/c6b30a38-7002-410f-8a0c-3688a1004903/sciimmunol.2023.8.issue-87.largecover.jpg
   description: First demonstration that preexisting tumor-resident T cells associate with response to neoadjuvant anti-PD-1 in head and neck cancer
   tags:

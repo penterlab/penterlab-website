@@ -2,6 +2,7 @@
   image: https://github.com/mehdiborji/nanoranger/blob/main/nanoranger_schema.png?raw=true
   description: Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing with Oxford Nanopore
   tags:
+   - nanoranger
    - scRNA-seq
    - targeted genotyping
    - long-read sequencing

@@ -16,6 +16,7 @@ or mitochondrial DNA mutations.
 
 ## Highlighted
 
+{% include citation.html lookup="Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing with Oxford Nanopore" style="rich" %}
 {% include citation.html lookup="Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease" style="rich" %}
 {% include citation.html lookup="Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial Mutations in Chronic Lymphocytic Leukemia Mirror Disease History" style="rich" %}
 

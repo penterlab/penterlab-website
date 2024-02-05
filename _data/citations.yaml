@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-023-44137-7
+  title: Integrative genotyping of cancer and immune phenotypes by long-read sequencing
+  authors:
+  - Livius Penter
+  - Mehdi Borji
+  - Adi Nagler
+  - Haoxiang Lyu
+  - Wesley S. Lu
+  - Nicoletta Cieri
+  - Katie Maurer
+  - Giacomo Oliveira
+  - "Aziz M. Al\u2019Khafaji"
+  - Kiran V. Garimella
+  - Shuqiang Li
+  - Donna S. Neuberg
+  - Jerome Ritz
+  - Robert J. Soiffer
+  - Jacqueline S. Garcia
+  - Kenneth J. Livak
+  - Catherine J. Wu
+  publisher: Nature Communications
+  date: '2024-01-02'
+  link: https://doi.org/gtgzkb
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1182/blood.2022017686
   title: "Ipilimumab plus decitabine for patients with MDS or AML in posttransplant\
     \ or transplant-na\xEFve settings"
@@ -1045,6 +1071,39 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: 10.1038/s41467-023-44137-7
+  title: Integrative genotyping of cancer and immune phenotypes by long-read sequencing
+  authors:
+  - Livius Penter
+  - Mehdi Borji
+  - Adi Nagler
+  - Haoxiang Lyu
+  - Wesley S. Lu
+  - Nicoletta Cieri
+  - Katie Maurer
+  - Giacomo Oliveira
+  - "Aziz M. Al\u2019Khafaji"
+  - Kiran V. Garimella
+  - Shuqiang Li
+  - Donna S. Neuberg
+  - Jerome Ritz
+  - Robert J. Soiffer
+  - Jacqueline S. Garcia
+  - Kenneth J. Livak
+  - Catherine J. Wu
+  publisher: Nature Communications
+  date: '2024-01-02'
+  link: https://doi.org/gtgzkb
+  image: https://github.com/mehdiborji/nanoranger/blob/main/nanoranger_schema.png?raw=true
+  description: Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing
+    with Oxford Nanopore
+  tags:
+  - scRNA-seq
+  - targeted genotyping
+  - long-read sequencing
+  - ONT
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1126/sciimmunol.adf4968
   title: "Preexisting tumor-resident T cells with cytotoxic potential associate with\
     \ response to neoadjuvant anti\u2013PD-1 in head and neck cancer"
@@ -1089,9 +1148,9 @@
   - Catherine J. Wu
   - Ravindra Uppaluri
   publisher: Science Immunology
-  date: '2023-09-08'
+  date: '2023-09-29'
   link: https://doi.org/gsv8n8
-  image: https://www.science.org/cms/asset/44ab435a-1a84-4461-838e-33b0073b733b/sciimmunol.2023.8.issue-87.largecover.jpg
+  image: https://www.science.org/cms/asset/c6b30a38-7002-410f-8a0c-3688a1004903/sciimmunol.2023.8.issue-87.largecover.jpg
   description: First demonstration that preexisting tumor-resident T cells associate
     with response to neoadjuvant anti-PD-1 in head and neck cancer
   tags:

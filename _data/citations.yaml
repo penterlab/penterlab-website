@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.46989/001c.117961
+  title: Single-cell genomics-based immune and disease monitoring in blood malignancies
+  authors:
+  - Anja C. Rathgeber
+  - Leif S. Ludwig
+  - Livius Penter
+  publisher: Clinical Hematology International
+  date: '2024-06-14'
+  link: https://doi.org/gtz569
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: https://s3.amazonaws.com/production.scholastica/public/attachments/a18131cc-e507-48ab-b237-b2c703a1cbf5/large/image5.png
+  description: Single-cell genomics-based immune and disease monitoring in blood malignancies
+  tags:
+  - single cell genomics
+  - immune monitoring
+  - clonal evolution
+  - review
 - id: doi:10.1038/s41467-023-44137-7
   title: Integrative genotyping of cancer and immune phenotypes by long-read sequencing
   authors:

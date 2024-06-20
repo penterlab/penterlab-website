@@ -18,7 +18,7 @@
    - ONT 
 
 - id: doi:10.1126/sciimmunol.adf4968
-  image: https://www.science.org/cms/asset/c6b30a38-7002-410f-8a0c-3688a1004903/sciimmunol.2023.8.issue-87.largecover.jpg
+  image: https://www.science.org/cms/asset/6ebfa65f-a3b0-4247-951e-8afbee7d1a10/sciimmunol.2023.8.issue-87.largecover.jpg
   description: First demonstration that preexisting tumor-resident T cells associate with response to neoadjuvant anti-PD-1 in head and neck cancer
   tags:
    - scRNA-seq

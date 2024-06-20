@@ -1,3 +1,12 @@
+- id: doi:10.46989/001c.117961
+  image: https://s3.amazonaws.com/production.scholastica/public/attachments/a18131cc-e507-48ab-b237-b2c703a1cbf5/large/image5.png 
+  description: Single-cell genomics-based immune and disease monitoring in blood malignancies
+  tags:
+   - single cell genomics
+   - immune monitoring
+   - clonal evolution
+   - review
+
 - id: doi:10.1038/s41467-023-44137-7
   image: https://github.com/mehdiborji/nanoranger/blob/main/nanoranger_schema.png?raw=true
   description: Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing with Oxford Nanopore

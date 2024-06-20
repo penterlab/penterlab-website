@@ -10,7 +10,7 @@ nav:
 Our research focuses the dissection of mechanisms that underlie response and resistance to 
 immunotherapies and on the longitudinal tracking of tumor cell evolution using single-cell
 lineage-tracing approaches based on interrogation of natural barcodes like somatic nuclear 
-or mitochondrial DNA mutations.
+or mitochondrial DNA mutations. 
 
 {% include section.html %}
 

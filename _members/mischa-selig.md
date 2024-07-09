@@ -18,4 +18,3 @@ He also holds a Ph.D. from the Albert Ludwig University of Freiburg, Faculty of 
 working together with Prof. Melanie Hart and Prof. Bernd Rolauffs.
 In our lab, Mischa will work on imaging and other spatial approaches to define the leukemic immune microenvironment.
 In his free time he likes climbing and running as well as spending time with family and friends. 
-

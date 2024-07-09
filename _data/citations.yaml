@@ -1,5 +1,57 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1172/JCI177460
+  title: Oncogene induced TIM-3 ligand expression dictates susceptibility to anti-TIM-3
+    therapy in mice
+  authors:
+  - Nana Talvard-Balland
+  - Lukas M. Braun
+  - Karen O. Dixon
+  - Melissa Zwick
+  - Helena Engel
+  - Alina Hartmann
+  - Sandra Duquesne
+  - Livius Penter
+  - Geoffroy Andrieux
+  - Lukas Simon Rindlisbacher
+  - Andrea Acerbis
+  - Jule Ehmann
+  - "Christoph K\xF6llerer"
+  - Michela Ansuinelli
+  - Andres Rettig
+  - Kevin Moschallski
+  - Petya Apostolova
+  - Tilman Brummer
+  - Anna L. Illert
+  - Markus A. Schramm
+  - Yurong Cheng
+  - "Anna K\xF6ttgen"
+  - Justus Duyster
+  - Hans D. Menssen
+  - Jerome Ritz
+  - Bruce R. Blazar
+  - Melanie Boerries
+  - Annette Schmitt Graeff
+  - Nurefsan Sariipek
+  - Peter van Galen
+  - Joerg M. Buescher
+  - Nina Cabezas-Wallscheid
+  - Heike L. Pahl
+  - Erika L. Pearce
+  - Robert J. Soiffer
+  - Catherine J. Wu
+  - Luca Vago
+  - Burkhard Becher
+  - "Natalie K\xF6hler"
+  - Tobias Wertheimer
+  - Vijay K. Kuchroo
+  - Robert Zeiser
+  publisher: Journal of Clinical Investigation
+  date: '2024-06-25'
+  link: https://doi.org/gt3vn6
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.46989/001c.117961
   title: Single-cell genomics-based immune and disease monitoring in blood malignancies
   authors:
@@ -237,6 +289,63 @@
   plugin: sources.py
   file: sources.yaml
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/bloodcancerdiscov/issue/4/2/1/m_bloodcandisc_4_2_cover.png
+- id: doi:10.1126/sciimmunol.adf4968
+  title: "Preexisting tumor-resident T cells with cytotoxic potential associate with\
+    \ response to neoadjuvant anti\u2013PD-1 in head and neck cancer"
+  authors:
+  - Giacomo Oliveira
+  - Ann Marie Egloff
+  - Alexander B. Afeyan
+  - Jacquelyn O. Wolff
+  - Zexiang Zeng
+  - Rebecca D. Chernock
+  - Liye Zhou
+  - Cameron Messier
+  - Patrick Lizotte
+  - Kathleen L. Pfaff
+  - Kari Stromhaug
+  - Livius Penter
+  - Robert I. Haddad
+  - Glenn J. Hanna
+  - Jonathan D. Schoenfeld
+  - Laura A. Goguen
+  - Donald J. Annino
+  - Vickie Jo
+  - Peter Oppelt
+  - Patrik Pipkorn
+  - Ryan Jackson
+  - Sidharth V. Puram
+  - Randal C. Paniello
+  - Jason T. Rich
+  - Jason Webb
+  - Jose P. Zevallos
+  - Mena Mansour
+  - Jingxin Fu
+  - Gavin P. Dunn
+  - Scott J. Rodig
+  - Jessica Ley
+  - "Luc G.\_T. Morris"
+  - Lara Dunn
+  - Cloud P. Paweletz
+  - Dorina Kallogjeri
+  - Jay F. Piccirillo
+  - Douglas R. Adkins
+  - Catherine J. Wu
+  - Ravindra Uppaluri
+  publisher: Science Immunology
+  date: '2023-09-29'
+  link: https://doi.org/gsv8n8
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.science.org/cms/asset/6ebfa65f-a3b0-4247-951e-8afbee7d1a10/sciimmunol.2023.8.issue-87.largecover.jpg
+  description: First demonstration that preexisting tumor-resident T cells associate
+    with response to neoadjuvant anti-PD-1 in head and neck cancer
+  tags:
+  - scRNA-seq
+  - PD-1
+  - immunotherapy
+  - tumor immunology
 - id: doi:10.1158/2326-6066.CIR-22-0434
   title: "Immune Phenotypes and Target Antigens of Clonally Expanded Bone Marrow T\
     \ Cells in Treatment-Na\xEFve Multiple Myeloma"
@@ -1099,59 +1208,3 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
-- id: doi:10.1126/sciimmunol.adf4968
-  title: "Preexisting tumor-resident T cells with cytotoxic potential associate with\
-    \ response to neoadjuvant anti\u2013PD-1 in head and neck cancer"
-  authors:
-  - Giacomo Oliveira
-  - Ann Marie Egloff
-  - Alexander B. Afeyan
-  - Jacquelyn O. Wolff
-  - Zexiang Zeng
-  - Rebecca D. Chernock
-  - Liye Zhou
-  - Cameron Messier
-  - Patrick Lizotte
-  - Kathleen L. Pfaff
-  - Kari Stromhaug
-  - Livius Penter
-  - Robert I. Haddad
-  - Glenn J. Hanna
-  - Jonathan D. Schoenfeld
-  - Laura A. Goguen
-  - Donald J. Annino
-  - Vickie Jo
-  - Peter Oppelt
-  - Patrik Pipkorn
-  - Ryan Jackson
-  - Sidharth V. Puram
-  - Randal C. Paniello
-  - Jason T. Rich
-  - Jason Webb
-  - Jose P. Zevallos
-  - Mena Mansour
-  - Jingxin Fu
-  - Gavin P. Dunn
-  - Scott J. Rodig
-  - Jessica Ley
-  - "Luc G.\_T. Morris"
-  - Lara Dunn
-  - Cloud P. Paweletz
-  - Dorina Kallogjeri
-  - Jay F. Piccirillo
-  - Douglas R. Adkins
-  - Catherine J. Wu
-  - Ravindra Uppaluri
-  publisher: Science Immunology
-  date: '2023-09-29'
-  link: https://doi.org/gsv8n8
-  image: https://www.science.org/cms/asset/c6b30a38-7002-410f-8a0c-3688a1004903/sciimmunol.2023.8.issue-87.largecover.jpg
-  description: First demonstration that preexisting tumor-resident T cells associate
-    with response to neoadjuvant anti-PD-1 in head and neck cancer
-  tags:
-  - scRNA-seq
-  - PD-1
-  - immunotherapy
-  - tumor immunology
-  plugin: sources.py
-  file: sources.yaml

@@ -20,6 +20,7 @@ If you are interested in our work, please join us!
 ## Alumni
 
 Anna Kalaitzi
+
 Maylis Toumi
 
 {% comment %}

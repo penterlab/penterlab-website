@@ -1,3 +1,26 @@
+- id: doi:10.1158/2643-3230.BCD-23-0138
+  image: images/publications/2024-BCD-Penter.jpg
+  description: Single-cell tracking of clonal evolution and microchimerism using mitochondrial DNA mutations
+  tags:
+   - single cell genomics
+   - stem cell transplantation
+   - clonal evolution
+
+- id: doi:10.1038/s41375-024-02381-w
+  image: images/publications/2024-Leukemia-Koedijk.png
+  description: Immune cell networks in pediatric and adult acute myeloid leukemia
+  tags:
+   - spatial analysis
+   - immunotherapy
+   - AML
+   
+- id: doi:10.1172/JCI177460
+  image: images/publications/2024-JCI-Talvard-Balland.png
+  description: TIM-3 inhibition stimulates graft-versus-leukemia responses against AML
+  tags:
+   - immunotherapy
+   - AML
+
 - id: doi:10.46989/001c.117961
   image: https://s3.amazonaws.com/production.scholastica/public/attachments/a18131cc-e507-48ab-b237-b2c703a1cbf5/large/image5.png 
   description: Single-cell genomics-based immune and disease monitoring in blood malignancies

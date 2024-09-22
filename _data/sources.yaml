@@ -1,6 +1,6 @@
 - id: doi:10.1182/blood.2024024593
   image: images/publications/2024-Blood-Penter.jpg
-  description: "Therapy response in AML: a tale of two T cells"
+  description: "Commentary on Mazziotta et al., Blood 2024"
   tags:
    - single cell genomics
    - AML
@@ -31,7 +31,7 @@
 
 - id: doi:10.1101/2024.07.28.605517
   image: images/publications/2024-BIORXIV-Lareau.png
-  description: commentary on problematic analysis of mitochondrial DNA mutations
+  description: Commentary on problematic analyses of mitochondrial DNA mutations
   tags:
    - single cell genomics
    - mitochondrial DNA mutations

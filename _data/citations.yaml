@@ -9,8 +9,14 @@
   date: '2024-09-12'
   link: https://doi.org/g3ntph
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2024-Blood-Penter.jpg
+  description: 'Therapy response in AML: a tale of two T cells'
+  tags:
+  - single cell genomics
+  - AML
+  - editorial
 - id: doi:10.1158/2643-3230.BCD-23-0138
   title: Tracking rare single donor and recipient immune and leukemia cells after
     allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations
@@ -160,8 +166,14 @@
   date: '2024-07-29'
   link: https://doi.org/gt5mvm
   orcid: 0000-0002-9060-0207
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2024-BIORXIV-Lareau.png
+  description: commentary on problematic analysis of mitochondrial DNA mutations
+  tags:
+  - single cell genomics
+  - mitochondrial DNA mutations
+  - editorial
 - id: doi:10.46989/001c.117961
   title: Single-cell genomics-based immune and disease monitoring in blood malignancies
   authors:

@@ -16,6 +16,7 @@ or mitochondrial DNA mutations.
 
 ## Highlighted
 
+{% include citation.html lookup="Single-cell tracking of clonal evolution and microchimerism using mitochondrial DNA mutations" style="rich" %}
 {% include citation.html lookup="Integrative genotyping of cancer and immune phenotypes by long-read sequencing" style="rich" %}
 {% include citation.html lookup="Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease" style="rich" %}
 {% include citation.html lookup="Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial Mutations in Chronic Lymphocytic Leukemia Mirror Disease History" style="rich" %}

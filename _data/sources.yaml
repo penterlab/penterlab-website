@@ -1,6 +1,6 @@
 - id: doi:10.1182/blood.2024024593
   image: images/publications/2024-Blood-Penter.jpg
-  description: Therapy response in AML: a tale of two T cells
+  description: "Therapy response in AML: a tale of two T cells"
   tags:
    - single cell genomics
    - AML

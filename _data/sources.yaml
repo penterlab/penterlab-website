@@ -1,3 +1,11 @@
+- id: doi:10.1182/blood.2024024593
+  image: images/publications/2024-Blood-Penter.jpg
+  description: Therapy response in AML: a tale of two T cells
+  tags:
+   - single cell genomics
+   - AML
+   - editorial
+
 - id: doi:10.1158/2643-3230.BCD-23-0138
   image: images/publications/2024-BCD-Penter.jpg
   description: Single-cell tracking of clonal evolution and microchimerism using mitochondrial DNA mutations

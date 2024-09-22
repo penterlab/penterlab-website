@@ -29,6 +29,14 @@
    - immunotherapy
    - AML
 
+- id: doi:10.1101/2024.07.28.605517
+  image: images/publications/2024-BIORXIV-Lareau.jpg
+  description: commentary on problematic analysis of mitochondrial DNA mutations
+  tags:
+   - single cell genomics
+   - mitochondrial DNA mutations
+   - editorial
+
 - id: doi:10.46989/001c.117961
   image: https://s3.amazonaws.com/production.scholastica/public/attachments/a18131cc-e507-48ab-b237-b2c703a1cbf5/large/image5.png 
   description: Single-cell genomics-based immune and disease monitoring in blood malignancies

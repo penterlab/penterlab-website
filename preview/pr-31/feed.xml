@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-31/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-31/" rel="alternate" type="text/html" /><updated>2024-11-27T11:08:23+00:00</updated><id>/preview/pr-31/feed.xml</id><title type="html">Penter Lab</title><subtitle>Understanding cancer and immune cell interactions using large-scale single cell genomics approaches.</subtitle><entry><title type="html">Publication: Coevolution of mitochondrial and somatic nuclear DNA mutations.</title><link href="/preview/pr-31/2024/09/05/BCD.html" rel="alternate" type="text/html" title="Publication: Coevolution of mitochondrial and somatic nuclear DNA mutations." /><published>2024-09-05T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/09/05/BCD</id><content type="html" xml:base="/preview/pr-31/2024/09/05/BCD.html"><![CDATA[<p>A satisfying conclusion to a side-story that became a major project of Livius’ postdoc with Cathy Wu.</p>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gvjpg8" class="citation-image" aria-label="Tracking rare single donor and recipient immune and leukemia cells after allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations">
+      <img src="/preview/pr-31/images/publications/2024-BCD-Penter.jpg" alt="Tracking rare single donor and recipient immune and leukemia cells after allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gvjpg8" class="citation-title">
+      Tracking rare single donor and recipient immune and leukemia cells after allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations
+    </a>
+
+    <div class="citation-authors" data-tooltip="Livius Penter, Nicoletta Cieri, Katie Maurer, Marwan Kwok, Haoxiang Lyu, Wesley S. Lu, Giacomo Oliveira, Satyen H. Gohil, Ignaty Leshchiner, Caleb A. Lareau, Leif S. Ludwig, Donna S. Neuberg, Haesook T. Kim, Shuqiang Li, Lars Bullinger, Jerome Ritz, Gad Getz, Jacqueline S. Garcia, Robert J. Soiffer, Kenneth J. Livak, Catherine J. Wu " tabindex="0">
+      Livius Penter, Nicoletta Cieri, Katie Maurer, Marwan Kwok, Haoxiang Lyu, ..., Gad Getz, Jacqueline S. Garcia, Robert J. Soiffer, Kenneth J. Livak, Catherine J. Wu
+    </div>
+
+    <div class="citation-details">
+      Blood Cancer Discovery
+      &nbsp; · &nbsp;
+      05 Sep 2024
+      &nbsp; · &nbsp;
+      doi:10.1158/2643-3230.BCD-23-0138
+    </div>
+
+    
+      
+        <div class="citation-description">
+          Single-cell tracking of clonal evolution and microchimerism using mitochondrial DNA mutations
+
+        </div>
+      
+
+      
+
+      
+        
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: single cell genomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;single cell genomics&quot;">
+        single cell genomics
+      </a>
+    
+      <a href="?search=&quot;tag: stem cell transplantation&quot;" class="tag" data-tooltip="Show items with the tag &quot;stem cell transplantation&quot;">
+        stem cell transplantation
+      </a>
+    
+      <a href="?search=&quot;tag: clonal evolution&quot;" class="tag" data-tooltip="Show items with the tag &quot;clonal evolution&quot;">
+        clonal evolution
+      </a>
+    
+  </div>
+
+
+      
+    
+  </div>
+</div>
+
+<p>We show co-evolution of mitochondrial and somatic nuclear DNA mutations using various approaches
+including reanalysis of bulk RNA and WES-seq data, single cell DNA sequencing and ASAP-seq. 
+Further, we use maternal mitochondrial DNA variants to track rare donor or recipient-derived
+single cells following allogeneic stem cell transplantation to map out microchimeric states,
+such as residual leukemia at incipient relapse or remaining donor-derived hematopoiesis at time
+of frank hematologic recurrence.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Co-evolution of mitochondrial and somatic nuclear DNA mutations">
+    <img src="/preview/pr-31/images/publications/2024-BCD-Penter.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="Co-evolution of mitochondrial and somatic nuclear DNA mutations" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Co-evolution of mitochondrial and somatic nuclear DNA mutations
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Livius Penter</name></author><category term="publication" /><category term="single cell genomics" /><summary type="html"><![CDATA[A satisfying conclusion to a side-story that became a major project of Livius’ postdoc with Cathy Wu.]]></summary></entry><entry><title type="html">Seunghoon starting!</title><link href="/preview/pr-31/2024/09/01/Seunghoon.html" rel="alternate" type="text/html" title="Seunghoon starting!" /><published>2024-09-01T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/09/01/Seunghoon</id><content type="html" xml:base="/preview/pr-31/2024/09/01/Seunghoon.html"><![CDATA[<p>Seunghoon Kim, PhD has started his work as shared postdoctoral research fellow between Dr. med. Jana Ihlow and
+Prof. Sandrine Sander. We are happy to provide the scientific environment in which he will develop his single cell genomics research projects.</p>
+
+<p>Best of luck to you Seunghoon!</p>]]></content><author><name>Livius Penter</name></author><category term="postdoc" /><category term="immunotherapy" /><category term="AML" /><category term="lymphoma" /><summary type="html"><![CDATA[Seunghoon Kim, PhD has started his work as shared postdoctoral research fellow between Dr. med. Jana Ihlow and Prof. Sandrine Sander. We are happy to provide the scientific environment in which he will develop his single cell genomics research projects.]]></summary></entry><entry><title type="html">Mischa starting!</title><link href="/preview/pr-31/2024/07/01/Mischa.html" rel="alternate" type="text/html" title="Mischa starting!" /><published>2024-07-01T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/07/01/Mischa</id><content type="html" xml:base="/preview/pr-31/2024/07/01/Mischa.html"><![CDATA[<p>Dr. Mischa Selig has started his work as postdoctoral research fellow with us - we are very thrilled to have him and wish him all the best of luck for his projects.</p>
+
+<p>Bring it on, Mischa!</p>]]></content><author><name>Livius Penter</name></author><category term="postdoc" /><category term="immunotherapy" /><category term="AML" /><summary type="html"><![CDATA[Dr. Mischa Selig has started his work as postdoctoral research fellow with us - we are very thrilled to have him and wish him all the best of luck for his projects.]]></summary></entry><entry><title type="html">PhD position available!</title><link href="/preview/pr-31/2024/06/20/PhD_position.html" rel="alternate" type="text/html" title="PhD position available!" /><published>2024-06-20T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/06/20/PhD_position</id><content type="html" xml:base="/preview/pr-31/2024/06/20/PhD_position.html"><![CDATA[<p>We have an opening for a PhD position.</p>
+
+<p>Please consider applying! :)</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="PhD position Penter lab 2024">
+    <img src="/preview/pr-31/images/postings/20240611_PhD_position_Penter_lab.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="PhD position Penter lab 2024" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      PhD position Penter lab 2024
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Livius Penter</name></author><category term="position" /><category term="single cell genomics" /><category term="MRD" /><category term="AML" /><summary type="html"><![CDATA[We have an opening for a PhD position.]]></summary></entry><entry><title type="html">first Penter lab publication!</title><link href="/preview/pr-31/2024/06/14/first_publication.html" rel="alternate" type="text/html" title="first Penter lab publication!" /><published>2024-06-14T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/06/14/first_publication</id><content type="html" xml:base="/preview/pr-31/2024/06/14/first_publication.html"><![CDATA[<p>Exciting times - the first publication from the Penter lab has been released in which we review current 
+studies that employ single cell genomics for performing immune monitoring in blood malignancies.</p>
+
+<p>Hope you will enjoy this read! :)</p>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gtz569" class="citation-image" aria-label="Single-cell genomics-based immune and disease monitoring in blood malignancies">
+      <img src="https://s3.amazonaws.com/production.scholastica/public/attachments/a18131cc-e507-48ab-b237-b2c703a1cbf5/large/image5.png" alt="Single-cell genomics-based immune and disease monitoring in blood malignancies" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gtz569" class="citation-title">
+      Single-cell genomics-based immune and disease monitoring in blood malignancies
+    </a>
+
+    <div class="citation-authors" tabindex="0">
+      Anja C. Rathgeber, Leif S. Ludwig, Livius Penter
+    </div>
+
+    <div class="citation-details">
+      Clinical Hematology International
+      &nbsp; · &nbsp;
+      14 Jun 2024
+      &nbsp; · &nbsp;
+      doi:10.46989/001c.117961
+    </div>
+
+    
+      
+        <div class="citation-description">
+          Single-cell genomics-based immune and disease monitoring in blood malignancies
+
+        </div>
+      
+
+      
+
+      
+        
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: single cell genomics&quot;" class="tag" data-tooltip="Show items with the tag &quot;single cell genomics&quot;">
+        single cell genomics
+      </a>
+    
+      <a href="?search=&quot;tag: immune monitoring&quot;" class="tag" data-tooltip="Show items with the tag &quot;immune monitoring&quot;">
+        immune monitoring
+      </a>
+    
+      <a href="?search=&quot;tag: clonal evolution&quot;" class="tag" data-tooltip="Show items with the tag &quot;clonal evolution&quot;">
+        clonal evolution
+      </a>
+    
+      <a href="?search=&quot;tag: review&quot;" class="tag" data-tooltip="Show items with the tag &quot;review&quot;">
+        review
+      </a>
+    
+  </div>
+
+
+      
+    
+  </div>
+</div>]]></content><author><name>Livius Penter</name></author><category term="publication" /><category term="single cell genomics" /><summary type="html"><![CDATA[Exciting times - the first publication from the Penter lab has been released in which we review current studies that employ single cell genomics for performing immune monitoring in blood malignancies.]]></summary></entry><entry><title type="html">Funding from DKMS</title><link href="/preview/pr-31/2024/04/16/DKMS-Funding.html" rel="alternate" type="text/html" title="Funding from DKMS" /><published>2024-04-16T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/04/16/DKMS%20Funding</id><content type="html" xml:base="/preview/pr-31/2024/04/16/DKMS-Funding.html"><![CDATA[<p>We are grateful for funding from the DKMS John Hansen Research Grant, which we will
+utilize to track the beginnings of AML relapse after allogeneic stem cell transplantation.</p>
+
+<p>Thank you for a wonderful award ceremony in Glasgow.</p>
+
+<p><a href="https://www.dkms.org.uk/get-involved/stories/dkms-celebrates-innovations-in-blood-cancer-research">Photographs</a></p>]]></content><author><name>Livius Penter</name></author><category term="funding" /><category term="AML" /><category term="MRD" /><summary type="html"><![CDATA[We are grateful for funding from the DKMS John Hansen Research Grant, which we will utilize to track the beginnings of AML relapse after allogeneic stem cell transplantation.]]></summary></entry><entry><title type="html">Welcome Jonas</title><link href="/preview/pr-31/2024/04/01/Jonas-starting.html" rel="alternate" type="text/html" title="Welcome Jonas" /><published>2024-04-01T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/04/01/Jonas%20starting</id><content type="html" xml:base="/preview/pr-31/2024/04/01/Jonas-starting.html"><![CDATA[<p>Welcome Jonas in our lab. Jonas will utilize long-read sequencing and single cell genomics to identify novel immunotherapeutic targets in AML. 
+Good luck!</p>]]></content><author><name>Livius Penter</name></author><category term="PhD candidate" /><category term="single cell genomics" /><summary type="html"><![CDATA[Welcome Jonas in our lab. Jonas will utilize long-read sequencing and single cell genomics to identify novel immunotherapeutic targets in AML. Good luck!]]></summary></entry><entry><title type="html">Welcome Angelos</title><link href="/preview/pr-31/2024/03/08/Angelos-starting.html" rel="alternate" type="text/html" title="Welcome Angelos" /><published>2024-03-08T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/03/08/Angelos%20starting</id><content type="html" xml:base="/preview/pr-31/2024/03/08/Angelos-starting.html"><![CDATA[<p>Welcome Angelos in our lab. Angelos will work on single cell genomics approaches to understand clonal evolution 
+and changes in transcriptional profile.</p>]]></content><author><name>Livius Penter</name></author><category term="PhD candidate" /><category term="single cell genomics" /><summary type="html"><![CDATA[Welcome Angelos in our lab. Angelos will work on single cell genomics approaches to understand clonal evolution and changes in transcriptional profile.]]></summary></entry><entry><title type="html">Postdoc position available!</title><link href="/preview/pr-31/2024/02/05/postdoc_position.html" rel="alternate" type="text/html" title="Postdoc position available!" /><published>2024-02-05T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/02/05/postdoc_position</id><content type="html" xml:base="/preview/pr-31/2024/02/05/postdoc_position.html"><![CDATA[<p>We have an opening for a postdoctoral research fellow position.</p>
+
+<p>Please consider applying! :)</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Postdoc position 2024">
+    <img src="/preview/pr-31/images/postings/20240205_Penter_Lab_Postdoc_position.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="Postdoc position 2024" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Postdoc position 2024
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Livius Penter</name></author><category term="position" /><category term="single cell genomics" /><summary type="html"><![CDATA[We have an opening for a postdoctoral research fellow position.]]></summary></entry><entry><title type="html">nanoranger released!</title><link href="/preview/pr-31/2024/01/02/nanoranger.html" rel="alternate" type="text/html" title="nanoranger released!" /><published>2024-01-02T00:00:00+00:00</published><updated>2024-11-27T11:04:41+00:00</updated><id>/preview/pr-31/2024/01/02/nanoranger</id><content type="html" xml:base="/preview/pr-31/2024/01/02/nanoranger.html"><![CDATA[<p>The new year is starting with great news - nanoranger is seeing the light of day!</p>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gtgzkb" class="citation-image" aria-label="Integrative genotyping of cancer and immune phenotypes by long-read sequencing">
+      <img src="https://github.com/mehdiborji/nanoranger/blob/main/nanoranger_schema.png?raw=true" alt="Integrative genotyping of cancer and immune phenotypes by long-read sequencing" loading="lazy" onerror="this.src = '/preview/pr-31/images/fallback.svg'; this.onerror = null;" />
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gtgzkb" class="citation-title">
+      Integrative genotyping of cancer and immune phenotypes by long-read sequencing
+    </a>
+
+    <div class="citation-authors" data-tooltip="Livius Penter, Mehdi Borji, Adi Nagler, Haoxiang Lyu, Wesley S. Lu, Nicoletta Cieri, Katie Maurer, Giacomo Oliveira, Aziz M. Al’Khafaji, Kiran V. Garimella, Shuqiang Li, Donna S. Neuberg, Jerome Ritz, Robert J. Soiffer, Jacqueline S. Garcia, Kenneth J. Livak, Catherine J. Wu " tabindex="0">
+      Livius Penter, Mehdi Borji, Adi Nagler, Haoxiang Lyu, Wesley S. Lu, ..., Jerome Ritz, Robert J. Soiffer, Jacqueline S. Garcia, Kenneth J. Livak, Catherine J. Wu
+    </div>
+
+    <div class="citation-details">
+      Nature Communications
+      &nbsp; · &nbsp;
+      02 Jan 2024
+      &nbsp; · &nbsp;
+      doi:10.1038/s41467-023-44137-7
+    </div>
+
+    
+      
+        <div class="citation-description">
+          Targeted genotyping of scRNA-seq cDNA libraries using long-read sequencing with Oxford Nanopore
+
+        </div>
+      
+
+      
+
+      
+        
+
+
+  <div class="tags">
+    
+      <a href="?search=&quot;tag: nanoranger&quot;" class="tag" data-tooltip="Show items with the tag &quot;nanoranger&quot;">
+        nanoranger
+      </a>
+    
+      <a href="?search=&quot;tag: scRNA-seq&quot;" class="tag" data-tooltip="Show items with the tag &quot;scRNA-seq&quot;">
+        scRNA-seq
+      </a>
+    
+      <a href="?search=&quot;tag: targeted genotyping&quot;" class="tag" data-tooltip="Show items with the tag &quot;targeted genotyping&quot;">
+        targeted genotyping
+      </a>
+    
+      <a href="?search=&quot;tag: long-read sequencing&quot;" class="tag" data-tooltip="Show items with the tag &quot;long-read sequencing&quot;">
+        long-read sequencing
+      </a>
+    
+      <a href="?search=&quot;tag: ONT&quot;" class="tag" data-tooltip="Show items with the tag &quot;ONT&quot;">
+        ONT
+      </a>
+    
+  </div>
+
+
+      
+    
+  </div>
+</div>
+
+<p>This is an approach to perform targeted genotyping of single cell RNA sequencing cDNA 
+using Oxford Nanopore.</p>]]></content><author><name>Livius Penter</name></author><category term="publication" /><category term="single cell genomics" /><summary type="html"><![CDATA[The new year is starting with great news - nanoranger is seeing the light of day!]]></summary></entry></feed>

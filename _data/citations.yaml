@@ -1,22 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1182/blood.2024024593
-  title: 'Therapy response in AML: a tale of two T cells'
-  authors:
-  - Livius Penter
-  - Catherine J. Wu
-  publisher: Blood
-  date: '2024-09-12'
-  link: https://doi.org/g3ntph
-  orcid: 0000-0002-9060-0207
-  plugin: sources.py
-  file: sources.yaml
-  image: images/publications/2024-Blood-Penter.jpg
-  description: Commentary on Mazziotta et al
-  tags:
-  - single cell genomics
-  - AML
-  - editorial
 - id: doi:10.1158/2643-3230.BCD-23-0138
   title: Tracking rare single donor and recipient immune and leukemia cells after
     allogeneic hematopoietic cell transplantation using mitochondrial DNA mutations
@@ -94,9 +77,26 @@
   - spatial analysis
   - immunotherapy
   - AML
+- id: doi:10.1182/blood.2024024593
+  title: 'Therapy response in AML: a tale of two T cells'
+  authors:
+  - Livius Penter
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2024-09-12'
+  link: https://doi.org/g3ntph
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2024-Blood-Penter.jpg
+  description: Commentary on Mazziotta et al
+  tags:
+  - single cell genomics
+  - AML
+  - editorial
 - id: doi:10.1172/JCI177460
-  title: Oncogene induced TIM-3 ligand expression dictates susceptibility to anti-TIM-3
-    therapy in mice
+  title: "Oncogene-induced TIM-3 ligand expression dictates susceptibility to anti\u2013\
+    TIM-3 therapy in mice"
   authors:
   - Nana Talvard-Balland
   - Lukas M. Braun
@@ -107,7 +107,7 @@
   - Sandra Duquesne
   - Livius Penter
   - Geoffroy Andrieux
-  - Lukas Simon Rindlisbacher
+  - Lukas Rindlisbacher
   - Andrea Acerbis
   - Jule Ehmann
   - "Christoph K\xF6llerer"
@@ -125,9 +125,9 @@
   - Jerome Ritz
   - Bruce R. Blazar
   - Melanie Boerries
-  - Annette Schmitt Graeff
+  - "Annette Schmitt-Gr\xE4ff"
   - Nurefsan Sariipek
-  - Peter van Galen
+  - Peter Van Galen
   - Joerg M. Buescher
   - Nina Cabezas-Wallscheid
   - Heike L. Pahl

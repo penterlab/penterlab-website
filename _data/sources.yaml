@@ -1,3 +1,28 @@
+- id: doi:10.1186/s13045-025-01669-3
+  image: images/publications/2025-JHO-Shapiro.jpg
+  description: NK cell therapy in combination with CTLA-4 blockade for head and neck cancer
+  tags:
+   - NK cell therapy
+   - immunotherapy
+   - head and neck cancer
+
+- id: doi:10.1126/sciimmunol.adr0782
+  image: images/publications/2025-SI-Maurer.jpg
+  description: Tracking determinants of response to donor lymphocyte infusion in AML and CML
+  tags:
+   - single cell genomics
+   - AML
+   - immunotherapy
+   - spatial analysis
+
+- id: doi:10.1016/j.medj.2024.11.001
+  image: images/publications/2024-Med-Ihlow.jpg
+  description: Application of single cell genomics as clinical diagnostics tool 
+  tags:
+   - single cell genomics
+   - AML
+   - genotyping
+
 - id: doi:10.1182/blood.2024024593
   image: images/publications/2024-Blood-Penter.jpg
   description: Commentary on Mazziotta et al

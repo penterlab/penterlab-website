@@ -45,6 +45,11 @@ donor- from recipient-derived cells in the post-transplant context.
   lookup="doi:10.1158/0008-5472.CAN-22-0275"
 %}
 
+{%
+  include citation.html
+  lookup="doi:10.1158/2643-3230.BCD-23-0138"
+%}
+
 {% include section.html %}
 
 ## Leukemia-specific T cell responses 

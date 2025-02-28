@@ -136,7 +136,7 @@
   description: Comment on [Gournay et al.](https://doi.org/10.1182/blood.2022015522) describing post-transplant immune reconstitution dynamics.
   
 - id: doi:10.1016/j.jcyt.2022.03.005
-  image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml
+  image: images/publications/2022-JCT-LammogliaCobo.jpg
 
 - id: doi:10.1158/1078-0432.CCR-21-2834
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/clincancerres/issue/28/15/2/m_clincanres_28_15_cover.png
@@ -170,7 +170,7 @@
   description: Best practices for flow cytometry. 
   
 - id: doi:10.1080/2162402X.2019.1586409
-  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/koni20.v008.i06
+  image: images/publications/2019-OI-Penter.jpg
   description: Phenotypes and T cell receptor sequences of tumor-infiltrating lymphocytes compared to physiologic tissue-resident T cells.
   tags:
     - rectal cancer
@@ -179,7 +179,7 @@
 
 - id: doi:10.1002/eji.201847507
   description: Demonstration of the high accuracy of FACS index sorting using single T and B cell receptor sequencing. 
-  image: https://onlinelibrary.wiley.com/cms/asset/ff97c041-128f-4ec7-bdbf-d64149611b0b/eji4220-gra-0001-m.png
+  image: images/publications/2018-EJI-Penter.jpg
   tags:
     - FACS index sorting
     - TCR

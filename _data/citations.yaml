@@ -623,7 +623,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://www.isct-cytotherapy.org/cms/asset/48861aee-60b3-4a88-b830-db00215fa312/gr1.sml
+  image: images/publications/2022-JCT-LammogliaCobo.jpg
 - id: doi:10.3389/fimmu.2021.788891
   title: Natural Barcodes for Longitudinal Single Cell Tracking of Leukemic and Immune
     Cell Dynamics
@@ -1248,7 +1248,7 @@
   orcid: 0000-0002-9060-0207
   plugin: sources.py
   file: sources.yaml
-  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/koni20.v008.i06
+  image: images/publications/2019-OI-Penter.jpg
   description: Phenotypes and T cell receptor sequences of tumor-infiltrating lymphocytes
     compared to physiologic tissue-resident T cells.
   tags:
@@ -1273,7 +1273,7 @@
   file: sources.yaml
   description: Demonstration of the high accuracy of FACS index sorting using single
     T and B cell receptor sequencing.
-  image: https://onlinelibrary.wiley.com/cms/asset/ff97c041-128f-4ec7-bdbf-d64149611b0b/eji4220-gra-0001-m.png
+  image: images/publications/2018-EJI-Penter.jpg
   tags:
   - FACS index sorting
   - TCR

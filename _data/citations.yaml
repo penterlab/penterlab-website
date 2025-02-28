@@ -1,5 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/sciimmunol.adr0782
+  title: Coordinated immune networks in leukemia bone marrow microenvironments distinguish
+    response to cellular therapy
+  authors:
+  - Katie Maurer
+  - Cameron Y. Park
+  - Shouvik Mani
+  - Mehdi Borji
+  - Florian Raths
+  - Kenneth H. Gouin
+  - Livius Penter
+  - Yinuo Jin
+  - Jia Yi Zhang
+  - Crystal Shin
+  - James R. Brenner
+  - Jackson Southard
+  - Sachi Krishna
+  - Wesley Lu
+  - Haoxiang Lyu
+  - Domenic Abbondanza
+  - Chanell Mangum
+  - "Lars R\xF8nn Olsen"
+  - Michael J. Lawson
+  - Martin Fabani
+  - Donna S. Neuberg
+  - Pavan Bachireddy
+  - Eli N. Glezer
+  - Samouil L. Farhi
+  - Shuqiang Li
+  - Kenneth J. Livak
+  - Jerome Ritz
+  - Robert J. Soiffer
+  - Catherine J. Wu
+  - Elham Azizi
+  publisher: Science Immunology
+  date: '2025-01-24'
+  link: https://doi.org/g82x95
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2025-SI-Maurer.jpg
+  description: Tracking determinants of response to donor lymphocyte infusion in AML
+    and CML
+  tags:
+  - single cell genomics
+  - AML
+  - immunotherapy
+  - spatial analysis
 - id: doi:10.1158/2643-3230.BCD-23-0138
   title: Tracking Rare Single Donor and Recipient Immune and Leukemia Cells after
     Allogeneic Hematopoietic Cell Transplantation Using Mitochondrial DNA Mutations
@@ -1330,3 +1378,79 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: doi:10.1186/s13045-025-01669-3
+  title: First-in-human evaluation of memory-like NK cells with an IL-15 super-agonist
+    and CTLA-4 blockade in advanced head and neck cancer
+  authors:
+  - Roman M. Shapiro
+  - Michal Sheffer
+  - Matthew A. Booker
+  - Michael Y. Tolstorukov
+  - Grace C. Birch
+  - Moshe Sade-Feldman
+  - Jacy Fang
+  - Shuqiang Li
+  - Wesley Lu
+  - Michela Ansuinelli
+  - Remy Dulery
+  - Mubin Tarannum
+  - Joanna Baginska
+  - Nishant Dwivedi
+  - Ashish Kothari
+  - Livius Penter
+  - Yasmin Z. Abdulhamid
+  - Isabel E. Kaplan
+  - Dinh Khanhlinh
+  - Ravindra Uppaluri
+  - Robert A. Redd
+  - Sarah Nikiforow
+  - John Koreth
+  - Jerome Ritz
+  - Catherine J. Wu
+  - Robert J. Soiffer
+  - Glenn J. Hanna
+  - Rizwan Romee
+  publisher: Journal of Hematology &amp; Oncology
+  date: '2025-02-14'
+  link: https://doi.org/g86npp
+  image: images/publications/2025-JHO-Shapiro.jpg
+  description: NK cell therapy in combination with CTLA-4 blockade for head and neck
+    cancer
+  tags:
+  - NK cell therapy
+  - immunotherapy
+  - head and neck cancer
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.medj.2024.11.001
+  title: Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm
+    via targeted single-cell mutational profiling
+  authors:
+  - Jana Ihlow
+  - Livius Penter
+  - Lam Giang Vuong
+  - Philip Bischoff
+  - Benedikt Obermayer
+  - Alexandra Trinks
+  - Olga Blau
+  - Anke Behnke
+  - Thomas Conrad
+  - Markus Morkel
+  - Catherine J. Wu
+  - "J\xF6rg Westermann"
+  - Lars Bullinger
+  - "Ann-Christin von Br\xFCnneck"
+  - "Nils Bl\xFCthgen"
+  - David Horst
+  - Samantha D. Praktiknjo
+  publisher: Med
+  date: '2024-12-01'
+  link: https://doi.org/g86npq
+  image: images/publications/2024-Med-Ihlow.jpg
+  description: Application of single cell genomics as clinical diagnostics tool
+  tags:
+  - single cell genomics
+  - AML
+  - genotyping
+  plugin: sources.py
+  file: sources.yaml

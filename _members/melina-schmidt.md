@@ -11,5 +11,5 @@ links:
 ---
 
 Melina Schmidt is a medical student who is investigating the impact of pretransplantation 
-strategies on long-term outcomes in myelodysplastic neoplasias. 
+strategies on long-term outcomes in myelodysplastic neoplasms. 
 She will leverage the rich clinical data of the transplant program at Charité - Universitätsmedizin Berlin.

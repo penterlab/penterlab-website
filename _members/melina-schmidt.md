@@ -10,6 +10,6 @@ links:
   email: mailto:melina-jeanne-louise.schmidt@charite.de
 ---
 
-Melina Schmidt is a medical student who is investigating the impact on pretransplantation 
+Melina Schmidt is a medical student who is investigating the impact of pretransplantation 
 strategies on long-term outcomes in myelodysplastic neoplasias. 
 She will leverage the rich clinical data of the transplant program at Charité - Universitätsmedizin Berlin.

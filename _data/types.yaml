@@ -18,6 +18,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+mdstudent:
+  icon: fa-solid fa-user-doctor
+  description: Medical Student
+
 technician:
   icon: fa-solid fa-vial 
   description: Technician

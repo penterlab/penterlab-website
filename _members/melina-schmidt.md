@@ -1,7 +1,7 @@
 ---
 name: Melina Schmidt
 image: images/people/Schmidt-Melina.jpg
-role: undergrad
+role: mdstudent
 aliases:
   - M. Schmidt
   - M Schmidt

@@ -12,5 +12,6 @@ links:
 
 Tim Berneiser is a PhD candidate working on deciphering the genetic and transcriptomic basis of myeloproliferative neoplasms, 
 a group of rare blood cancers with limited treatment options. He is using computational genomics approaches to characterize 
-genetic and non-genetic factors involved in disease development and progression. 
+genetic and non-genetic factors involved in disease development and progression. This project is a collaboration with 
+Lars Bullinger's group, funded through [TARGET-MPN](https://for-5659.com/).
 Tim holds a master's degree in biochemistry from Freie Universität Berlin.

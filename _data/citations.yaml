@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/2643-3230.BCD-25-0083
+  title: Putting AML Differentiation States on the BoneMarrowMap
+  authors:
+  - Jonas Berger
+  - Livius Penter
+  publisher: Blood Cancer Discovery
+  date: '2025-04-28'
+  link: https://doi.org/g9kcg2
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2025-BCD-Berger.png
+  description: Editorial on BoneMarrowMap
+  tags:
+  - AML
+  - single cell genomics
 - id: doi:10.1126/sciimmunol.adr0782
   title: Coordinated immune networks in leukemia bone marrow microenvironments distinguish
     response to cellular therapy

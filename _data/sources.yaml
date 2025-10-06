@@ -1,3 +1,19 @@
+- id: doi:10.1182/blood.2025029121
+  image: images/publications/2025-Blood-Penter.jpg
+  description: immune mechanisms in extramedullary AML
+  tags:
+   - AML
+   - single cell genomics
+   - immunotherapy
+
+- id: doi:10.1038/s41467-025-60394-0
+  image: images/publications/2025-NC-Mazziotta.jpg
+  description: Single cell tracking of WT1-specific T cells
+  tags:
+   - AML
+   - single cell genomics
+   - immunotherapy
+
 - id: doi:10.1158/2643-3230.BCD-25-0083
   image: images/publications/2025-BCD-Berger.png
   description: Editorial on BoneMarrowMap

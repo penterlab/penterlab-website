@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1182/blood.2025029121
+  title: Mechanisms of immune escape and extramedullary tropism in leukemia cutis
+  authors:
+  - Livius Penter
+  - Katie Maurer
+  - Nicoletta Cieri
+  - Wesley Lu
+  - Haoxiang Lyu
+  - Mischa Selig
+  - Maria Joosten
+  - Jana Ihlow
+  - Shuqiang Li
+  - Kenneth J Livak
+  - Lars Bullinger
+  - Jerome Ritz
+  - Pavan Bachireddy
+  - Matthew S. Davids
+  - Jacqueline S. Garcia
+  - Robert J. Soiffer
+  - Catherine J Wu
+  publisher: Blood Journal
+  date: '2025-09-30'
+  link: https://doi.org/g95zgx
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2643-3230.BCD-25-0083
   title: Putting AML Differentiation States on the BoneMarrowMap
   authors:
@@ -64,6 +90,166 @@
   - AML
   - immunotherapy
   - spatial analysis
+- id: doi:10.1038/s41467-025-60394-0
+  title: 'A phase I/II trial of WT1-specific TCR gene therapy for patients with acute
+    myeloid leukemia and active disease post-allogeneic hematopoietic cell transplantation:
+    skewing towards NK-like phenotype impairs T cell function and persistence'
+  authors:
+  - Francesco Mazziotta
+  - Lauren E. Martin
+  - Daniel N. Egan
+  - Merav Bar
+  - "Sin\xE9ad Kinsella"
+  - Kelly G. Paulson
+  - Valentin Voillet
+  - Miranda C. Lahman
+  - Daniel Hunter
+  - Thomas M. Schmitt
+  - Natalie Duerkopp
+  - Cecilia C. S. Yeung
+  - Tzu-Hao Tang
+  - Raphael Gottardo
+  - Yuta Asano
+  - Elise C. Wilcox
+  - Bo Lee
+  - Tianzi Zhang
+  - Paolo Lopedote
+  - Livius Penter
+  - Catherine J. Wu
+  - Filippo Milano
+  - Philip D. Greenberg
+  - Aude G. Chapuis
+  publisher: Nature Communications
+  date: '2025-06-05'
+  link: https://doi.org/g95zgz
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.medj.2024.11.001
+  title: Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm
+    via targeted single-cell mutational profiling
+  authors:
+  - Jana Ihlow
+  - Livius Penter
+  - Lam Giang Vuong
+  - Philip Bischoff
+  - Benedikt Obermayer
+  - Alexandra Trinks
+  - Olga Blau
+  - Anke Behnke
+  - Thomas Conrad
+  - Markus Morkel
+  - Catherine J. Wu
+  - "J\xF6rg Westermann"
+  - Lars Bullinger
+  - "Ann-Christin von Br\xFCnneck"
+  - "Nils Bl\xFCthgen"
+  - David Horst
+  - Samantha D. Praktiknjo
+  publisher: Med
+  date: '2025-04-01'
+  link: https://doi.org/g86npq
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2024-Med-Ihlow.jpg
+  description: Application of single cell genomics as clinical diagnostics tool
+  tags:
+  - single cell genomics
+  - AML
+  - genotyping
+- id: doi:10.1186/s13045-025-01669-3
+  title: First-in-human evaluation of memory-like NK cells with an IL-15 super-agonist
+    and CTLA-4 blockade in advanced head and neck cancer
+  authors:
+  - Roman M. Shapiro
+  - Michal Sheffer
+  - Matthew A. Booker
+  - Michael Y. Tolstorukov
+  - Grace C. Birch
+  - Moshe Sade-Feldman
+  - Jacy Fang
+  - Shuqiang Li
+  - Wesley Lu
+  - Michela Ansuinelli
+  - Remy Dulery
+  - Mubin Tarannum
+  - Joanna Baginska
+  - Nishant Dwivedi
+  - Ashish Kothari
+  - Livius Penter
+  - Yasmin Z. Abdulhamid
+  - Isabel E. Kaplan
+  - Dinh Khanhlinh
+  - Ravindra Uppaluri
+  - Robert A. Redd
+  - Sarah Nikiforow
+  - John Koreth
+  - Jerome Ritz
+  - Catherine J. Wu
+  - Robert J. Soiffer
+  - Glenn J. Hanna
+  - Rizwan Romee
+  publisher: Journal of Hematology &amp; Oncology
+  date: '2025-02-14'
+  link: https://doi.org/g86npp
+  orcid: 0000-0002-9060-0207
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/2025-JHO-Shapiro.jpg
+  description: NK cell therapy in combination with CTLA-4 blockade for head and neck
+    cancer
+  tags:
+  - NK cell therapy
+  - immunotherapy
+  - head and neck cancer
+- id: doi:10.1038/s41587-024-02348-3
+  title: Systematic identification of minor histocompatibility antigens predicts outcomes
+    of allogeneic hematopoietic cell transplantation
+  authors:
+  - Nicoletta Cieri
+  - Nidhi Hookeri
+  - Kari Stromhaug
+  - Liang Li
+  - Julia Keating
+  - "Paula D\xEDaz-Fern\xE1ndez"
+  - "Valle G\xF3mez-Garc\xEDa de Soria"
+  - Jonathan Stevens
+  - Raphael Kfuri-Rubens
+  - Yiren Shao
+  - Kameron A. Kooshesh
+  - Kaila Powell
+  - Helen Ji
+  - Gabrielle M. Hernandez
+  - Jennifer Abelin
+  - Susan Klaeger
+  - Cleo Forman
+  - Karl R. Clauser
+  - Siranush Sarkizova
+  - David A. Braun
+  - Livius Penter
+  - Haesook T. Kim
+  - William J. Lane
+  - Giacomo Oliveira
+  - Leslie S. Kean
+  - Shuqiang Li
+  - Kenneth J. Livak
+  - Steven A. Carr
+  - Derin B. Keskin
+  - "Cecilia Mu\xF1oz-Calleja"
+  - Vincent T. Ho
+  - Jerome Ritz
+  - Robert J. Soiffer
+  - Donna Neuberg
+  - Chip Stewart
+  - Gad Getz
+  - Catherine J. Wu
+  publisher: Nature Biotechnology
+  date: '2024-08-21'
+  link: https://doi.org/g95zg2
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2643-3230.BCD-23-0138
   title: Tracking Rare Single Donor and Recipient Immune and Leukemia Cells after
     Allogeneic Hematopoietic Cell Transplantation Using Mitochondrial DNA Mutations
@@ -1394,79 +1580,3 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
-- id: doi:10.1186/s13045-025-01669-3
-  title: First-in-human evaluation of memory-like NK cells with an IL-15 super-agonist
-    and CTLA-4 blockade in advanced head and neck cancer
-  authors:
-  - Roman M. Shapiro
-  - Michal Sheffer
-  - Matthew A. Booker
-  - Michael Y. Tolstorukov
-  - Grace C. Birch
-  - Moshe Sade-Feldman
-  - Jacy Fang
-  - Shuqiang Li
-  - Wesley Lu
-  - Michela Ansuinelli
-  - Remy Dulery
-  - Mubin Tarannum
-  - Joanna Baginska
-  - Nishant Dwivedi
-  - Ashish Kothari
-  - Livius Penter
-  - Yasmin Z. Abdulhamid
-  - Isabel E. Kaplan
-  - Dinh Khanhlinh
-  - Ravindra Uppaluri
-  - Robert A. Redd
-  - Sarah Nikiforow
-  - John Koreth
-  - Jerome Ritz
-  - Catherine J. Wu
-  - Robert J. Soiffer
-  - Glenn J. Hanna
-  - Rizwan Romee
-  publisher: Journal of Hematology &amp; Oncology
-  date: '2025-02-14'
-  link: https://doi.org/g86npp
-  image: images/publications/2025-JHO-Shapiro.jpg
-  description: NK cell therapy in combination with CTLA-4 blockade for head and neck
-    cancer
-  tags:
-  - NK cell therapy
-  - immunotherapy
-  - head and neck cancer
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.medj.2024.11.001
-  title: Diagnosing recipient- vs. donor-derived posttransplant myelodysplastic neoplasm
-    via targeted single-cell mutational profiling
-  authors:
-  - Jana Ihlow
-  - Livius Penter
-  - Lam Giang Vuong
-  - Philip Bischoff
-  - Benedikt Obermayer
-  - Alexandra Trinks
-  - Olga Blau
-  - Anke Behnke
-  - Thomas Conrad
-  - Markus Morkel
-  - Catherine J. Wu
-  - "J\xF6rg Westermann"
-  - Lars Bullinger
-  - "Ann-Christin von Br\xFCnneck"
-  - "Nils Bl\xFCthgen"
-  - David Horst
-  - Samantha D. Praktiknjo
-  publisher: Med
-  date: '2024-12-01'
-  link: https://doi.org/g86npq
-  image: images/publications/2024-Med-Ihlow.jpg
-  description: Application of single cell genomics as clinical diagnostics tool
-  tags:
-  - single cell genomics
-  - AML
-  - genotyping
-  plugin: sources.py
-  file: sources.yaml

@@ -9,4 +9,4 @@ tags:
 Immune mechanisms that associate with extramedullary AML revealed by single cell RNA sequencing. 
 Finally published in Blood. 
 
-{% include citation.html lookup="immune mechanisms in extramedullary AML" style="rich" %}
+{% include citation.html lookup="Mechanisms of immune escape and extramedullary tropism in leukemia cutis" style="rich" %}

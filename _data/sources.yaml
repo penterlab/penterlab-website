@@ -6,6 +6,13 @@
    - single cell genomics
    - immunotherapy
 
+- id: doi:10.1038/s41587-024-02348-3
+  image: images/publications/2025-NB-Cieri.jpg
+  description: Systemic identification of minor histocompatibility antigens
+  tags:
+   - stem cell transplantation
+   - immunogenomics
+   
 - id: doi:10.1038/s41467-025-60394-0
   image: images/publications/2025-NC-Mazziotta.jpg
   description: Single cell tracking of WT1-specific T cells

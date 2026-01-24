@@ -7,7 +7,7 @@ tags:
 ---
 
 Frederik Damm's group has published a comprehensive story on the origin of indolent B cell non-Hodgkin
-lymphomas in *Blood*. This is especially exciting as they adopted the nanoranger approach to track 
+lymphomas in *Blood*. This is especially exciting as Frederik's group adopted our nanoranger approach to track 
 lymphoma-initiating stem cells in single cell RNA sequencing profiles. 
 
 {% include citation.html lookup="Clonal Hematopoiesis and Lymphoma-Associated Mutations in Hematopoietic Progenitors in B-Cell Non-Hodgkin Lymphoma" style="rich" %}

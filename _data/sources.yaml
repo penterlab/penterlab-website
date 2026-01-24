@@ -1,3 +1,19 @@
+- id: doi:10.1182/blood.2025030489
+  image: images/publications/2026-Blood-Wiegand.jpg
+  description: lymphoma-initiating stem cells
+  tags:
+   - lymphoma
+   - single clel genomics
+   - nanoranger
+
+- id: doi:10.1038/s41586-025-09893-0
+  image: images/publications/2025-Nature-Gaebler.jpg
+  description: HIV cure after allogeneic stem cell transplantation
+  tags:
+   - HIV
+   - minor histocompatibility antigens
+   - graft-versus-repertoire effect
+
 - id: doi:10.1182/blood.2025029121
   image: images/publications/2025-Blood-Penter.jpg
   description: immune mechanisms in extramedullary AML

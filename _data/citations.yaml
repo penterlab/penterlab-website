@@ -6,22 +6,22 @@
   - Livius Penter
   - Katie Maurer
   - Nicoletta Cieri
-  - Wesley Lu
+  - Wesley S. Lu
   - Haoxiang Lyu
   - Mischa Selig
   - Maria Joosten
   - Jana Ihlow
   - Shuqiang Li
-  - Kenneth J Livak
+  - Kenneth J. Livak
   - Lars Bullinger
   - Jerome Ritz
   - Pavan Bachireddy
   - Matthew S. Davids
   - Jacqueline S. Garcia
   - Robert J. Soiffer
-  - Catherine J Wu
-  publisher: Blood Journal
-  date: '2025-09-30'
+  - Catherine J. Wu
+  publisher: Blood
+  date: '2026-01-01'
   link: https://doi.org/g95zgx
   orcid: 0000-0002-9060-0207
   plugin: sources.py
@@ -429,7 +429,7 @@
   - Tal Nawy
   - "Dana Pe\u2019er"
   - Leif S. Ludwig
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-29'
   link: https://doi.org/gt5mvm
   orcid: 0000-0002-9060-0207
@@ -628,8 +628,8 @@
   - mtDNA mutations
   - lineage-tracing
 - id: doi:10.1158/2643-3230.BCD-22-0082
-  title: <i>In Vivo</i>Modeling of CLL Transformation to Richter Syndrome Reveals
-    Convergent Evolutionary Paths and Therapeutic Vulnerabilities
+  title: "<i>In Vivo</i>\n                    Modeling of CLL Transformation to Richter\
+    \ Syndrome Reveals Convergent Evolutionary Paths and Therapeutic Vulnerabilities"
   authors:
   - Elisa ten Hacken
   - Tomasz Sewastianik

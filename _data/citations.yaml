@@ -1597,3 +1597,94 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: doi:10.1182/blood.2025030489
+  title: Clonal Hematopoiesis and Lymphoma-Associated Mutations in Hematopoietic Progenitors
+    in B-Cell Non-Hodgkin Lymphoma
+  authors:
+  - Laura Wiegand
+  - Patricia Silva
+  - Daniel Noerenberg
+  - Friederike Christen
+  - Klara Kopp
+  - Benjamin Nick Locher
+  - "Pelle L\xF6we"
+  - Marlon Tilgner
+  - Robert Altwasser
+  - Vanessa Storzer
+  - Catarina M Stein
+  - Franziska Briest
+  - Christopher Maximilian Arends
+  - Mareike Frick
+  - Jana Ihlow
+  - Anna Dolnik
+  - Naveed Ishaque
+  - Ulrich Keller
+  - Il-Kang Na
+  - Livius Penter
+  - Lars Bullinger
+  - Raphael Hablesreiter
+  - Frederik Damm
+  publisher: Blood Journal
+  date: '2026-01-05'
+  link: https://doi.org/hbmbvg
+  image: images/publications/2026-Blood-Wiegand.jpg
+  description: lymphoma-initiating stem cells
+  tags:
+  - lymphoma
+  - single clel genomics
+  - nanoranger
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-025-09893-0
+  title: "Sustained HIV-1 remission after heterozygous CCR5\u039432 stem cell transplantation"
+  authors:
+  - Christian Gaebler
+  - Samad Kor
+  - Kristina Allers
+  - Michela Perotti
+  - David Mwangi
+  - Karolin Meixenberger
+  - Kirsten Hanke
+  - Timo Trenkner
+  - Tom Kraus
+  - Yeqin Sha
+  - Carmen Arentowicz
+  - Stanley Odidika
+  - Nikolai Grahn
+  - Rachel Scheck
+  - Naomi Perkins
+  - Marion Pardons
+  - Vanessa Igbokwe
+  - Victor Corman
+  - Thomas Burmeister
+  - Olga Blau
+  - "G\xFCl\xFCstan S\xFCr\xFCc\xFC"
+  - "Axel Pru\xDF"
+  - Christian G. Schneider
+  - Gerd Klausen
+  - "J\xFCrgen Sauter"
+  - Florian Klein
+  - Leif E. Sander
+  - "J\xF6rg Hofmann"
+  - Lam Vuong
+  - Lars Bullinger
+  - Livius Penter
+  - Henning Gruell
+  - Daniel B. Reeves
+  - Philipp Schommers
+  - Angelique Hoelzemer
+  - Martin Obermeier
+  - Igor W. Blau
+  - Thomas Schneider
+  - Olaf Penack
+  publisher: Nature
+  date: '2025-12-01'
+  link: https://doi.org/hbc9w6
+  image: images/publications/2025-Nature-Gaebler.jpg
+  description: HIV cure after allogeneic stem cell transplantation
+  tags:
+  - HIV
+  - minor histocompatibility antigens
+  - graft-versus-repertoire effect
+  plugin: sources.py
+  file: sources.yaml

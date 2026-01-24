@@ -1,4 +1,3 @@
-
 ---
 title: Yeqin publishes in Nature
 author: Livius Penter

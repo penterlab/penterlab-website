@@ -4,7 +4,7 @@ author: Livius Penter
 tags:
   - PhD student
   - MPN
-  - transcrptomics
+  - transcriptomics
 ---
 
 Tim Berneiser has started his work as PhD student funded through [TARGET-MPN](https://for-5659.com/).

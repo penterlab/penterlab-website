@@ -8,7 +8,7 @@ tags:
 ---
 
 We had a great day with [Jani Huuhtanen](https://scholar.google.com/citations?user=T7UqQkEAAAAJ&hl=en) who visited the lab and gave a wonderful overview on 
-his impressive work at [CompCancer](https://www.comp-cancer.de/).
+his impressive work at the [CompCancer](https://www.comp-cancer.de/) Colloquium.
 
 Jani Huuhtanen, MD, PhD, is an MSCA-EMBO postdoctoral fellow focused on resolving the co-evolution between the somatic evolution of malignant cells and T-cell interactions. He combines large-scale TCR-pMHC screens from the Ton Schumacher group (Netherlands Cancer Institute) with novel single-cell genomics from the Dan Landau group (Weill Cornell Medicine, New York Genome Center). As a physician-scientist, he is determined to translate his findings into the clinic.
 

@@ -1,9 +1,17 @@
+- id: doi:10.1186/s13059-026-04072-4
+  image: images/publications/2026-GB-Rathgeber.jpg
+  description: CLL-initiation at the single cell level
+  tags:
+   - lymphoma
+   - single cell genomics
+   - mitochondrial DNA mutations
+
 - id: doi:10.1182/blood.2025030489
   image: images/publications/2026-Blood-Wiegand.jpg
   description: lymphoma-initiating stem cells
   tags:
    - lymphoma
-   - single clel genomics
+   - single cell genomics
    - nanoranger
 
 - id: doi:10.1038/s41586-025-09893-0

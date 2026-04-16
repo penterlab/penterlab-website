@@ -1597,6 +1597,33 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: doi:10.1186/s13059-026-04072-4
+  title: Single-cell epigenetic and transcriptomic states across the continuum of
+    monoclonal B cell lymphocytosis to chronic lymphocytic leukemia
+  authors:
+  - Anja C. Rathgeber
+  - Stacey M. Fernandes
+  - Adi Nagler
+  - Shuqiang Li
+  - David M. Dorfman
+  - Lars Bullinger
+  - Matthew S. Davids
+  - Jennifer R. Brown
+  - Kenneth J. Livak
+  - Leif S. Ludwig
+  - Catherine J. Wu
+  - Livius Penter
+  publisher: Genome Biology
+  date: '2026-04-15'
+  link: https://doi.org/hbxdpx
+  image: images/publications/2026-GB-Rathgeber.jpg
+  description: CLL-initiation at the single cell level
+  tags:
+  - lymphoma
+  - single cell genomics
+  - mitochondrial DNA mutations
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1182/blood.2025030489
   title: Clonal Hematopoiesis and Lymphoma-Associated Mutations in Hematopoietic Progenitors
     in B-Cell Non-Hodgkin Lymphoma
@@ -1631,7 +1658,7 @@
   description: lymphoma-initiating stem cells
   tags:
   - lymphoma
-  - single clel genomics
+  - single cell genomics
   - nanoranger
   plugin: sources.py
   file: sources.yaml

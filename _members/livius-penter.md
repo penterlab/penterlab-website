@@ -20,5 +20,6 @@ After work as Junior Clinician Scientist with Leo Hansmann at Charité from 2015
 postdoctoral research training in Cathy Wu’s lab at Dana-Farber Cancer Institute from 2019 to 2023.
 He has been heading a Max-Eder research group since 2023 with a focus on tumor-specific immune responses in the
 context of blood malignancies and allogeneic hematopoietic stem cell transplantation. To gain a deep understanding of
-leukemia and immune cell interactions, the Penter lab interrogates primary human samples using computational biology and single cell genomics approaches.
+leukemia and immune cell interactions, the Penter lab interrogates primary human samples using computational biology 
+and single cell genomics approaches.
 

@@ -1,3 +1,11 @@
+- id: 10.1111/bjh.70503
+  image: images/publications/2026-BJH-Selig.jpg
+  description: Commentary - Tregs in MDS
+  tags:
+   - MDS
+   - Tregs
+   - editorial
+
 - id: doi:10.1186/s13059-026-04072-4
   image: images/publications/2026-GB-Rathgeber.jpg
   description: CLL initiation at the single cell level

@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/bjh.70503
+  title: "Not all Tregs in\n                    <scp>MDS</scp>\n                 \
+    \   are created equal"
+  authors:
+  - Mischa Selig
+  - Livius Penter
+  publisher: British Journal of Haematology
+  date: '2026-04-23'
+  link: https://doi.org/hbzn8k
+  orcid: 0000-0002-9060-0207
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1182/blood.2025029121
   title: Mechanisms of immune escape and extramedullary tropism in leukemia cutis
   authors:
@@ -1597,6 +1609,23 @@
   plugin: sources.py
   file: sources.yaml
   image: https://static-content.springer.com/cover/journal/11523/10/4.jpg
+- id: 10.1111/bjh.70503
+  title: "Not all Tregs in\n                    <scp>MDS</scp>\n                 \
+    \   are created equal"
+  authors:
+  - Mischa Selig
+  - Livius Penter
+  publisher: British Journal of Haematology
+  date: '2026-04-23'
+  link: https://doi.org/hbzn8k
+  image: images/publications/2026-BJH-Selig.jpg
+  description: Commentary on Vazquez et al. - Tregs in MDS
+  tags:
+  - MDS
+  - Tregs
+  - editorial
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13059-026-04072-4
   title: Single-cell epigenetic and transcriptomic states across the continuum of
     monoclonal B cell lymphocytosis to chronic lymphocytic leukemia
@@ -1625,8 +1654,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1182/blood.2025030489
-  title: Clonal Hematopoiesis and Lymphoma-Associated Mutations in Hematopoietic Progenitors
-    in B-Cell Non-Hodgkin Lymphoma
+  title: Clonal hematopoiesis and lymphoma-associated mutations in hematopoietic progenitors
+    in B-cell non-Hodgkin lymphoma
   authors:
   - Laura Wiegand
   - Patricia Silva
@@ -1638,7 +1667,7 @@
   - Marlon Tilgner
   - Robert Altwasser
   - Vanessa Storzer
-  - Catarina M Stein
+  - Catarina Marlene Stein
   - Franziska Briest
   - Christopher Maximilian Arends
   - Mareike Frick
@@ -1651,8 +1680,8 @@
   - Lars Bullinger
   - Raphael Hablesreiter
   - Frederik Damm
-  publisher: Blood Journal
-  date: '2026-01-05'
+  publisher: Blood
+  date: '2026-04-09'
   link: https://doi.org/hbmbvg
   image: images/publications/2026-Blood-Wiegand.jpg
   description: lymphoma-initiating stem cells

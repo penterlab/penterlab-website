@@ -16,11 +16,10 @@ or mitochondrial DNA mutations.
 
 ## Highlighted
 
-{% include citation.html lookup="Mechanisms of immune escape and extramedullary tropism in leukemia cutis" style="rich" %}
+{% include citation.html lookup="Single-cell epigenetic and transcriptomic states across the continuum of monoclonal B cell lymphocytosis to chronic lymphocytic leukemia" style="rich" %}
+{{% include citation.html lookup="Mechanisms of immune escape and extramedullary tropism in leukemia cutis" style="rich" %}
 {% include citation.html lookup="Tracking Rare Single Donor and Recipient Immune and Leukemia Cells after Allogeneic Hematopoietic Cell Transplantation Using Mitochondrial DNA Mutations" style="rich" %}
 {% include citation.html lookup="Integrative genotyping of cancer and immune phenotypes by long-read sequencing" style="rich" %}
-{% include citation.html lookup="Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease" style="rich" %}
-{% include citation.html lookup="Longitudinal Single-Cell Dynamics of Chromatin Accessibility and Mitochondrial Mutations in Chronic Lymphocytic Leukemia Mirror Disease History" style="rich" %}
 
 {% include section.html %}
 

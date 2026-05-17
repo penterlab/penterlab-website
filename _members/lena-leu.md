@@ -8,7 +8,7 @@ aliases:
   - Leu
 links:
   home-page: https://www.penterlab.org
-  email: mailto:lena.leu@charite.de
+  email: lena.leu@charite.de
 ---
 
 Lena is a biologic technical assistant who graduated from OSZ Lise Meitner school in Berlin in 2023. 

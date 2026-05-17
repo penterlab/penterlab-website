@@ -7,7 +7,7 @@ aliases:
   - H Tietz
   - Tietz
 links:
-  email: mailto:henry.tietz@charite.de
+  email: henry.tietz@charite.de
 ---
 
 Henry Tietz is a medical student who is interested in immunological leukemia control. 

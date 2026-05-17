@@ -10,7 +10,7 @@ links:
   home-page: https://www.penterlab.org
   orcid: 0000-0002-9060-0207
   twitter: livius_tacitus
-  email: mailto:livius.penter@charite.de
+  email: livius.penter@charite.de
   CV: CV-Penter-Livius.pdf
 ---
 

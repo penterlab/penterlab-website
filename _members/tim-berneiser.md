@@ -7,7 +7,7 @@ aliases:
   - T Berneiser
   - Berneiser
 links:
-  email: mailto:tim-stefan.berneiser@charite.de
+  email: tim-stefan.berneiser@charite.de
 ---
 
 Tim Berneiser is a PhD candidate working on deciphering the genetic and transcriptomic basis of myeloproliferative neoplasms, 

@@ -7,7 +7,7 @@ aliases:
   - M Schmidt
   - Schmidt
 links:
-  email: mailto:melina-jeanne-louise.schmidt@charite.de
+  email: melina-jeanne-louise.schmidt@charite.de
 ---
 
 Melina Schmidt is a medical student who is investigating the impact of pretransplantation 

@@ -8,7 +8,7 @@ aliases:
   - Berger
 links:
   linkedin: jonas-berger-7579b6201
-  email: mailto:jonas.berger@charite.de
+  email: jonas.berger@charite.de
 ---
 
 Jonas is a PhD student interested in cancer immunology. He is using single cell genomics to study 

@@ -7,7 +7,7 @@ aliases:
   - A Andrzejewska
   - Andrzejewska
 links:
-  email: mailto:aleksandra-maria.andrzejewska@charite.de
+  email: aleksandra-maria.andrzejewska@charite.de
 ---
 
 Aleksandra Andrzejewska is a medical student who is investigating clinical presentations and therapeutic 

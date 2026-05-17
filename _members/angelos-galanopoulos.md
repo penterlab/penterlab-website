@@ -7,7 +7,7 @@ aliases:
   - A Galanopoulos
   - Galanopoulos
 links:
-  email: mailto:angelos.galanopoulos@charite.de
+  email: angelos.galanopoulos@charite.de
 ---
 
 Angelos Galanopoulos is PhD candidate with interest in single cell genomics. 

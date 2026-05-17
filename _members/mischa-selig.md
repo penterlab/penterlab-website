@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://www.penterlab.org
   linkedin: dr-mischa-selig
-  email: mailto:mischa.selig@charite.de
+  email: mischa.selig@charite.de
 ---
 
 Mischa Selig studied Applied Biology at Karlsruhe Institute of Technology where he received his Bachelor of Science (B.Sc.) in June 2015.

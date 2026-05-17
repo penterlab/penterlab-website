@@ -8,7 +8,7 @@ aliases:
   - Wiechers
 links:
   home-page: https://www.penterlab.org
-  email: mailto:lara.wiechers@charite.de
+  email: lara.wiechers@charite.de
 ---
 
 Lara is a clinician-scientist interested in clonal dynamics in cancer. 

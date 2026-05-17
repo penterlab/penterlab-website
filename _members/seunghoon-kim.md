@@ -8,7 +8,7 @@ aliases:
   - Kim
 links:
   home-page: https://www.penterlab.org
-  email: mailto:seunghoon.kim@charite.de
+  email: seunghoon.kim@charite.de
 ---
 
 Dr. Seunghoon Kim received his PhD from the Ulsan National Institute of Science and Technology (UNIST) in South Korea

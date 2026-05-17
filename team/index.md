@@ -19,6 +19,8 @@ If you are interested in our work, please join us!
 
 ## Alumni
 
+Anja Rathgeber
+
 Anna Kalaitzi
 
 Maylis Toumi

@@ -1,5 +1,5 @@
 ---
-name: Sven Masswig
+name: Sven Maßwig
 image: images/people/Masswig-Sven.jpeg
 role: technician
 aliases:

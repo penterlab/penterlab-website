@@ -1,3 +1,11 @@
+- id: doi:10.1038/s41586-026-10777-0
+  image: images/publications/2024-BIORXIV-Lareau.png
+  description: lineage-tracing with lowly abundant mitochondrial DNA mutations - a commentary on important caveats 
+  tags:
+   - single cell genomics
+   - mitochondrial DNA mutations
+   - matters arising
+   
 - id: doi:10.1111/bjh.70503
   image: images/publications/2026-BJH-Selig.jpg
   description: Commentary on Vazquez et al. - Tregs in MDS

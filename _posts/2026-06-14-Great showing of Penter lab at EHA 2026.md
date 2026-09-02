@@ -6,7 +6,7 @@ tags:
   - single cell genomics
 ---
 
-Mischa Selig and Angelos Galanopoulos showed their works at EHA 2026.
+Mischa Selig and Angelos Galanopoulos showed their well progressing projects at EHA 2026. 
 
 Mischa [showed](https://penterlab.github.io/penterlab-website-PDF/PF657.pdf) his work on large-scale multiparameter whole-slide imaging to uncover spatial niches along the MDS/AML continuum. 
 

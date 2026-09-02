@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-The Penter Lab is opening in 2023. Updates on its progress can be found below. 
+The Penter Lab has opened in 2023 at Charité - Universitätsmedizin Berlin. Updates on its progress can be found below. 
 
 {% include section.html %}
 

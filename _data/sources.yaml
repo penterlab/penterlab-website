@@ -30,6 +30,12 @@
    - minor histocompatibility antigens
    - graft-versus-repertoire effect
 
+- id: doi:10.1016/j.isci.2025.112988
+  image: images/publications/2025-iScience-Kim.jpg
+  description: single cell transcriptomics in head and neck cancer
+  tags:
+   - single cell genomics
+
 - id: doi:10.1182/blood.2025029121
   image: images/publications/2025-Blood-Penter.jpg
   description: immune mechanisms in extramedullary AML

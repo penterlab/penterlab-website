@@ -22,6 +22,14 @@
    - single cell genomics
    - mitochondrial DNA mutations
 
+- id: doi:10.1186/s13059-026-04135-6
+  image: images/publications/2026-GB-Rathgeber.jpg
+  description: Publisher Correction: CLL initiation at the single cell level
+  tags:
+   - lymphoma
+   - single cell genomics
+   - mitochondrial DNA mutations
+
 - id: doi:10.1182/blood.2025030489
   image: images/publications/2026-Blood-Wiegand.jpg
   description: lymphoma-initiating stem cells

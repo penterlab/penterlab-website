@@ -1,11 +1,14 @@
 ---
-name: Lara Wiechers
+name: Lara Hövel
 image: images/people/Wiechers-Lara.png
 role: postdoc
 aliases:
   - L. Wiechers
   - L Wiechers
   - Wiechers
+  - L. Hövel
+  - L Hövel
+  - Hövel
 links:
   home-page: https://www.penterlab.org
   email: lara.wiechers@charite.de
